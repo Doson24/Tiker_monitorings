@@ -1,6 +1,6 @@
 from ichimoku import tenkan_sen, senkou_spanA, senkou_spanB, chikou_span
 import yfinance as yf
-from Alarms import sound, current_trend
+from Alarms import sound, current_trend, file_tiker
 from ichimoku import open_file_and_split
 import json
 import time
@@ -128,6 +128,9 @@ def monitoring(templates, interval='1h'):
         current_trend(data_ichimoko, tenkan_sen_value, kijun_sen_value, senkou_spanA_value, senkou_spanB_value,
               chikou_span_value, tiker)
 
+def trend_interval(file, period, interval):
+    pass
+
 if __name__ == '__main__':
     # tiker = input('Введите отслеживаемый Тикер - ')
     # input('Введите варианты отслеживания: \n '
@@ -139,16 +142,22 @@ if __name__ == '__main__':
     # a = {'RUB=X': 2, 'BABA': 2, 'CSCO': 2, 'T': 2, 'KO': 2, 'MAIL.IL': 2, 'EBS': 2, 'MOMO': 2, 'INTC': 2, 'PFE': 2,
     #      'TAL': 2, 'VIPS': 2, 'AFLT.ME': 2, 'VTBR.ME': 2, 'GAZP.ME': 2, 'SIBN.ME': 2, 'ATVI': 2, 'AYX': 2, 'FLOT.ME': 2,
     #      'BYND': 2, 'TATN.ME': 2, 'HHR': 2, 'FXCN.ME': 2, 'BZUN': 2}
-    with open('Мониторинг.json') as f:
+    list_periods = ['6mo', '2y']
+    list_interval = ['1d', '1wk']
+    files = ['Portfolio.txt', 'Список желаемых.txt', 'Список индексов.txt'
+             ,'ALL_Moex.txt', 'ALL_spb.txt']
+    #
+
+    file = 'Мониторинг.json'
+    with open(file) as f:
         templates = json.load(f)
+    s = input(f"insert Sleep time(s) for interval=1h, tikers={file}:")
+    for file in files:
+        print(f'trends in {file}')
+        file_tiker(file, list_periods[0], list_interval[0])
+        print(f'trends in {file}')
+        file_tiker(file, list_periods[1], list_interval[1])
 
-    # keys = list(templates.keys())
-
-    # tiker = 'INTC'
-    # list = ['BABA']
-    # list.append(tiker)
-    s = input('insert Sleep time(s):')
-    # interval = input('insert interval: ')
     print(list(templates.keys()))
     while True:
         monitoring(templates)
