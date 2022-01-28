@@ -1,0 +1,1 @@
+'BABA', 'CSCO', 'T', 'KO', 'EBS', 'MOMO', 'GILD', 'INTC', 'PFE', 'TAL', 'VIPS', 'AFLT.ME', 'VTBR.ME', 'GAZP.ME', 'SIBN.ME', 'ENRU.ME', 'ATVI', 'AYX', 'FLOT.ME', 'BYND', 'TATN.ME', 'MAIL.IL', 'HHR', 'FXCN.ME', 'BZUN'

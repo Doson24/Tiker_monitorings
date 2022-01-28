@@ -1,0 +1,1 @@
+'RUB=X', 'BABA', 'CSCO', 'T', 'KO', 'VKCO.IL', 'EBS', 'MOMO', 'INTC', 'PFE', 'TAL', 'VIPS', 'AFLT.ME', 'VTBR.ME', 'GAZP.ME', 'SIBN.ME', 'ATVI', 'AYX', 'FLOT.ME', 'BYND', 'TATN.ME', 'MAIL.IL', 'HHR', 'FXCN.ME', 'BZUN'

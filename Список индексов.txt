@@ -1,0 +1,1 @@
+'ES=F', 'NQ=F', 'FXCN.ME', 'IMOEX.ME', 'KWEB'
