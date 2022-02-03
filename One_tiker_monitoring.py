@@ -142,8 +142,8 @@ if __name__ == '__main__':
     # a = {'RUB=X': 2, 'BABA': 2, 'CSCO': 2, 'T': 2, 'KO': 2, 'MAIL.IL': 2, 'EBS': 2, 'MOMO': 2, 'INTC': 2, 'PFE': 2,
     #      'TAL': 2, 'VIPS': 2, 'AFLT.ME': 2, 'VTBR.ME': 2, 'GAZP.ME': 2, 'SIBN.ME': 2, 'ATVI': 2, 'AYX': 2, 'FLOT.ME': 2,
     #      'BYND': 2, 'TATN.ME': 2, 'HHR': 2, 'FXCN.ME': 2, 'BZUN': 2}
-    list_periods = ['6mo', '2y']
-    list_interval = ['1d', '1wk']
+    list_periods = ['6mo', 'max', 'max']
+    list_interval = ['1d', '1wk', '1mo']
     files = ['Portfolio.txt', 'Список желаемых.txt', 'Список индексов.txt'
              ,'ALL_Moex.txt', 'ALL_spb.txt']
     #
@@ -152,12 +152,17 @@ if __name__ == '__main__':
     with open(file) as f:
         templates = json.load(f)
     s = input(f"insert Sleep time(s) for interval=1h, tikers={file}:")
+    monitoring(templates)
     for file in files:
-        print(f'trends in {file}')
-        file_tiker(file, list_periods[0], list_interval[0])
-        print(f'trends in {file}')
-        file_tiker(file, list_periods[1], list_interval[1])
-
+        for i in range(0, len(list_interval)-1):
+            print(f'trends in {file}')
+            result_1d = file_tiker(file, list_periods[i], list_interval[i])
+            # name1d = [i['name'] for i in result_1d]
+            # date_time1d = [i['date_time'] for i in result_1d]
+            # text1d = [i['text'] for i in result_1d]
+            # print(f'trends in {file}')
+            # result_1w = file_tiker(file, list_periods[i], list_interval[i])
+    time.sleep(seconds)
     print(list(templates.keys()))
     while True:
         monitoring(templates)

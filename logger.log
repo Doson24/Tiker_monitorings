@@ -2,3 +2,182 @@
 2022-01-28 17:51:49.911 | INFO     | __main__:current_trend:89 - KWEB 2022-01-27 - Down Trend 33.6$
 2022-01-28 17:53:40.063 | INFO     | __main__:current_trend:90 - FXCN.ME 2022-01-28 - Down Trend 2921.0$
 2022-01-28 17:53:40.141 | INFO     | __main__:current_trend:90 - KWEB 2022-01-27 - Down Trend 33.6$
+2022-01-28 20:01:25.592 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend
+2022-01-28 20:01:27.000 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 00:00:00 - 79.2$ Entry point for Up Trend
+2022-01-28 20:01:32.861 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend
+2022-01-28 20:05:14.993 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend
+2022-01-28 20:05:16.303 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 00:00:00 - 79.2$ Entry point for Up Trend
+2022-01-28 20:05:20.371 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend
+2022-01-28 20:06:02.835 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend
+2022-01-28 20:06:04.232 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 00:00:00 - 79.2$ Entry point for Up Trend
+2022-01-28 20:06:08.363 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend
+2022-01-28 20:07:02.542 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend
+2022-01-28 20:07:03.890 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 00:00:00 - 79.2$ Entry point for Up Trend
+2022-01-28 20:07:08.023 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend
+2022-01-28 20:10:38.391 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:10:39.680 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 00:00:00 - 79.2$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:10:43.817 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:11:18.415 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:11:20.112 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 00:00:00 - 79.2$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:11:26.716 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:12:59.366 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:13:03.108 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 00:00:00 - 79.2$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:13:10.240 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 00:00:00 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:16:19.722 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:16:21.324 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 79.2$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:16:26.152 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:18:27.675 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:18:30.006 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 79.2$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:18:34.129 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-01-26 - 3140.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:18:59.354 | INFO     | Alarms:input_trades:40 - CBOM.ME 2022-01-26 - 6.9$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:35.057 | INFO     | Alarms:input_trades:40 - ATRO 2022-01-25 - 13.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:37.488 | INFO     | Alarms:input_trades:40 - BAH 2022-01-24 - 86.7$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:38.579 | INFO     | Alarms:input_trades:40 - CVGW 2022-01-24 - 43.2$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:39.900 | INFO     | Alarms:input_trades:40 - CHX 2022-01-25 - 23.8$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:42.773 | INFO     | Alarms:input_trades:40 - CR 2022-01-24 - 102.0$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:42.956 | INFO     | Alarms:input_trades:40 - CCK 2022-01-27 - 112.5$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:52.220 | INFO     | Alarms:input_trades:40 - HP 2022-01-25 - 29.2$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:53.426 | INFO     | Alarms:input_trades:40 - HII 2022-01-24 - 195.6$ Entry point for Up Trend for interval=1d
+2022-01-28 20:21:56.351 | INFO     | Alarms:input_trades:40 - EWZ 2022-01-26 - 30.8$ Entry point for Up Trend for interval=1d
+2022-01-28 20:22:06.447 | INFO     | Alarms:input_trades:40 - OII 2022-01-25 - 13.8$ Entry point for Up Trend for interval=1d
+2022-01-28 20:22:07.171 | INFO     | Alarms:input_trades:40 - OC 2022-01-24 - 92.3$ Entry point for Up Trend for interval=1d
+2022-01-28 20:22:07.307 | INFO     | Alarms:input_trades:40 - PKG 2022-01-27 - 143.5$ Entry point for Up Trend for interval=1d
+2022-01-28 20:22:12.043 | INFO     | Alarms:input_trades:40 - RHI 2022-01-26 - 111.1$ Entry point for Up Trend for interval=1d
+2022-01-28 20:22:17.071 | INFO     | Alarms:input_trades:40 - TTM 2022-01-27 - 32.7$ Entry point for Up Trend for interval=1d
+2022-01-28 20:22:22.591 | INFO     | Alarms:input_trades:40 - UHS 2022-01-24 - 130.7$ Entry point for Up Trend for interval=1d
+2022-01-28 20:22:27.245 | INFO     | Alarms:input_trades:40 - ZION 2022-01-25 - 66.5$ Entry point for Up Trend for interval=1d
+2022-01-28 20:24:29.728 | INFO     | Alarms:input_trades:54 - LNT 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:24:29.843 | INFO     | Alarms:input_trades:40 - MDRX 2022-01-24 - 19.7$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:24:30.343 | INFO     | Alarms:input_trades:54 - AEE 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:24:34.355 | INFO     | Alarms:input_trades:40 - BWA 2022-01-10 - 49.8$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:24:34.432 | INFO     | Alarms:input_trades:54 - BSX 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:24:35.202 | INFO     | Alarms:input_trades:40 - CALM 2022-01-10 - 41.1$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:24:42.071 | INFO     | Alarms:input_trades:54 - ETR 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:24:44.094 | INFO     | Alarms:input_trades:40 - FMC 2022-01-10 - 114.1$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:24:46.806 | INFO     | Alarms:input_trades:54 - PEAK 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:24:46.923 | INFO     | Alarms:input_trades:54 - HSIC 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:24:50.250 | INFO     | Alarms:input_trades:54 - IGF 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:24:55.651 | INFO     | Alarms:input_trades:40 - MTOR 2022-01-10 - 27.2$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:24:56.118 | INFO     | Alarms:input_trades:40 - MKSI 2022-01-10 - 180.7$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:24:59.554 | INFO     | Alarms:input_trades:40 - OSK 2022-01-10 - 124.1$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:24:59.745 | INFO     | Alarms:input_trades:40 - PCAR 2022-01-24 - 93.2$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:25:00.826 | INFO     | Alarms:input_trades:54 - PM 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:25:00.865 | INFO     | Alarms:input_trades:40 - PSX 2022-01-10 - 88.6$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:25:01.365 | INFO     | Alarms:input_trades:54 - PPL 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:25:01.674 | INFO     | Alarms:input_trades:40 - PUMP 2022-01-24 - 10.5$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:25:02.251 | INFO     | Alarms:input_trades:40 - PHM 2022-01-10 - 57.1$ Entry point for Up Trend for interval=1wk
+2022-01-28 20:25:04.598 | INFO     | Alarms:input_trades:54 - SNY 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-01-28 20:25:10.035 | INFO     | Alarms:input_trades:54 - IPG 2022-01-27 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-02-03 21:55:51.343 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 21:55:53.992 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-03 21:55:56.347 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-03 21:55:59.767 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 21:56:21.543 | INFO     | Alarms:input_trades:40 - AKRN.ME 2022-02-01 - 13800.0$ Entry point for Up Trend for interval=1d
+2022-02-03 21:56:23.791 | INFO     | Alarms:input_trades:40 - TGKDP.ME 2022-02-01 - 0.0$ Entry point for Up Trend for interval=1d
+2022-02-03 21:56:24.741 | INFO     | Alarms:input_trades:40 - LSRG.ME 2022-02-01 - 685.8$ Entry point for Up Trend for interval=1d
+2022-02-03 21:56:24.786 | INFO     | Alarms:input_trades:40 - LKOH.ME 2022-02-01 - 6949.5$ Entry point for Up Trend for interval=1d
+2022-02-03 21:56:27.762 | INFO     | Alarms:input_trades:40 - SAGOP.ME 2022-02-02 - 1.3$ Entry point for Up Trend for interval=1d
+2022-02-03 21:59:37.687 | INFO     | Alarms:input_trades:40 - AMCX 2022-01-31 - 42.6$ Entry point for Up Trend for interval=1d
+2022-02-03 21:59:42.228 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-03 21:59:47.809 | INFO     | Alarms:input_trades:40 - CHX 2022-02-01 - 23.8$ Entry point for Up Trend for interval=1d
+2022-02-03 22:00:19.231 | INFO     | Alarms:input_trades:40 - MLCO 2022-02-01 - 10.9$ Entry point for Up Trend for interval=1d
+2022-02-03 22:00:19.360 | INFO     | Alarms:input_trades:40 - MRK 2022-01-31 - 81.5$ Entry point for Up Trend for interval=1d
+2022-02-03 22:00:25.286 | INFO     | Alarms:input_trades:40 - OII 2022-02-01 - 14.3$ Entry point for Up Trend for interval=1d
+2022-02-03 22:00:39.480 | INFO     | Alarms:input_trades:40 - TMUS 2022-02-03 - 119.8$ Entry point for Up Trend for interval=1d
+2022-02-03 22:00:40.652 | INFO     | Alarms:input_trades:40 - TGNA 2022-02-01 - 19.9$ Entry point for Up Trend for interval=1d
+2022-02-03 22:00:42.928 | INFO     | Alarms:input_trades:54 - THG 2022-02-03 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-03 22:00:45.510 | INFO     | Alarms:input_trades:40 - RIG 2022-02-01 - 3.5$ Entry point for Up Trend for interval=1d
+2022-02-03 22:00:52.479 | INFO     | Alarms:input_trades:40 - WEX 2022-01-31 - 161.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:03:24.128 | INFO     | Alarms:input_trades:40 - Y 2022-01-31 - 686.9$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:03:24.403 | INFO     | Alarms:input_trades:40 - MDRX 2022-01-24 - 20.5$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:03:27.142 | INFO     | Alarms:input_trades:40 - ALV 2022-01-31 - 102.9$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:03:38.854 | INFO     | Alarms:input_trades:40 - FMC 2022-01-31 - 112.7$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:03:54.174 | INFO     | Alarms:input_trades:40 - OMC 2022-01-31 - 77.2$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:03:54.596 | INFO     | Alarms:input_trades:40 - PCAR 2022-01-24 - 93.7$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:03:56.528 | INFO     | Alarms:input_trades:40 - PUMP 2022-01-24 - 10.4$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:03:58.288 | INFO     | Alarms:input_trades:40 - RS 2022-01-31 - 160.1$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:04:01.411 | INFO     | Alarms:input_trades:40 - SPR 2022-01-31 - 46.4$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:04:09.133 | INFO     | Alarms:input_trades:40 - VRTX 2022-01-24 - 243.0$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:11:18.132 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:12:40.421 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:13:27.925 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:18:57.393 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:37:13.681 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:37:15.592 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:42:15.089 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:49:26.403 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:49:27.898 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-03 22:49:30.202 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-03 22:49:32.370 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:52:41.032 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 22:52:43.047 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-03 23:19:39.780 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 23:22:07.691 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-03 23:49:58.586 | INFO     | Alarms:crossing_bigLine_ichimoko_cloud:123 - T 2022-02-03 - 24.8$ crossing big line Ichimoko cloud for interval=1d
+2022-02-03 23:51:24.284 | INFO     | Alarms:crossing_bigLine_ichimoko_cloud:123 - T 2022-02-03 - 24.8$ crossing big line Ichimoko cloud for interval=1d
+2022-02-04 00:42:57.403 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:43:06.179 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:43:23.024 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:43:24.485 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:43:26.737 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-04 00:43:28.831 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:44:42.542 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:44:45.902 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:44:49.381 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-04 00:44:53.990 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:45:18.620 | INFO     | Alarms:input_trades:40 - AKRN.ME 2022-02-01 - 13800.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:45:20.920 | INFO     | Alarms:input_trades:40 - TGKDP.ME 2022-02-01 - 0.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:45:21.890 | INFO     | Alarms:input_trades:40 - LSRG.ME 2022-02-01 - 685.8$ Entry point for Up Trend for interval=1d
+2022-02-04 00:45:21.936 | INFO     | Alarms:input_trades:40 - LKOH.ME 2022-02-01 - 6949.5$ Entry point for Up Trend for interval=1d
+2022-02-04 00:45:24.975 | INFO     | Alarms:input_trades:40 - SAGOP.ME 2022-02-02 - 1.3$ Entry point for Up Trend for interval=1d
+2022-02-04 00:48:03.839 | INFO     | Alarms:input_trades:40 - AMCX 2022-01-31 - 42.6$ Entry point for Up Trend for interval=1d
+2022-02-04 00:48:08.769 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-04 00:48:14.859 | INFO     | Alarms:input_trades:40 - CHX 2022-02-01 - 23.8$ Entry point for Up Trend for interval=1d
+2022-02-04 00:48:48.913 | INFO     | Alarms:input_trades:40 - MLCO 2022-02-01 - 10.9$ Entry point for Up Trend for interval=1d
+2022-02-04 00:48:49.052 | INFO     | Alarms:input_trades:40 - MRK 2022-01-31 - 81.5$ Entry point for Up Trend for interval=1d
+2022-02-04 00:48:55.380 | INFO     | Alarms:input_trades:40 - OII 2022-02-01 - 14.3$ Entry point for Up Trend for interval=1d
+2022-02-04 00:49:10.745 | INFO     | Alarms:input_trades:40 - TMUS 2022-02-03 - 120.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:49:11.971 | INFO     | Alarms:input_trades:40 - TGNA 2022-02-01 - 19.9$ Entry point for Up Trend for interval=1d
+2022-02-04 00:49:14.451 | INFO     | Alarms:input_trades:54 - THG 2022-02-03 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-04 00:49:17.140 | INFO     | Alarms:input_trades:40 - RIG 2022-02-01 - 3.5$ Entry point for Up Trend for interval=1d
+2022-02-04 00:49:24.568 | INFO     | Alarms:input_trades:40 - WEX 2022-01-31 - 161.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:51:48.937 | INFO     | Alarms:input_trades:40 - Y 2022-01-31 - 686.9$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:51:49.219 | INFO     | Alarms:input_trades:40 - MDRX 2022-01-24 - 20.5$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:51:51.999 | INFO     | Alarms:input_trades:40 - ALV 2022-01-31 - 102.9$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:52:01.758 | INFO     | Alarms:input_trades:54 - ET 2022-02-03 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-02-04 00:52:03.985 | INFO     | Alarms:input_trades:40 - FMC 2022-01-31 - 112.7$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:52:19.823 | INFO     | Alarms:input_trades:40 - OMC 2022-01-31 - 77.2$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:52:20.280 | INFO     | Alarms:input_trades:40 - PCAR 2022-01-24 - 93.7$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:52:22.319 | INFO     | Alarms:input_trades:40 - PUMP 2022-01-24 - 10.4$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:52:24.120 | INFO     | Alarms:input_trades:40 - RS 2022-01-31 - 160.1$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:52:27.322 | INFO     | Alarms:input_trades:40 - SPR 2022-01-31 - 46.4$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:52:30.805 | INFO     | Alarms:input_trades:54 - THG 2022-02-03 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-02-04 00:52:35.332 | INFO     | Alarms:input_trades:40 - VRTX 2022-01-24 - 243.0$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:55:45.319 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:57:12.796 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:57:17.958 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-04 00:57:27.586 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-04 00:57:37.427 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:58:03.341 | INFO     | Alarms:input_trades:40 - AKRN.ME 2022-02-01 - 13800.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:58:05.669 | INFO     | Alarms:input_trades:40 - TGKDP.ME 2022-02-01 - 0.0$ Entry point for Up Trend for interval=1d
+2022-02-04 00:58:06.642 | INFO     | Alarms:input_trades:40 - LSRG.ME 2022-02-01 - 685.8$ Entry point for Up Trend for interval=1d
+2022-02-04 00:58:06.688 | INFO     | Alarms:input_trades:40 - LKOH.ME 2022-02-01 - 6949.5$ Entry point for Up Trend for interval=1d
+2022-02-04 00:58:09.781 | INFO     | Alarms:input_trades:40 - SAGOP.ME 2022-02-02 - 1.3$ Entry point for Up Trend for interval=1d
+2022-02-04 01:00:54.758 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 01:00:59.592 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-04 01:01:09.069 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-04 01:01:18.812 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 01:01:45.172 | INFO     | Alarms:input_trades:40 - AKRN.ME 2022-02-01 - 13800.0$ Entry point for Up Trend for interval=1d
+2022-02-04 01:01:47.469 | INFO     | Alarms:input_trades:40 - TGKDP.ME 2022-02-01 - 0.0$ Entry point for Up Trend for interval=1d
+2022-02-04 01:01:48.430 | INFO     | Alarms:input_trades:40 - LSRG.ME 2022-02-01 - 685.8$ Entry point for Up Trend for interval=1d
+2022-02-04 01:01:48.477 | INFO     | Alarms:input_trades:40 - LKOH.ME 2022-02-01 - 6949.5$ Entry point for Up Trend for interval=1d
+2022-02-04 01:01:51.515 | INFO     | Alarms:input_trades:40 - SAGOP.ME 2022-02-02 - 1.3$ Entry point for Up Trend for interval=1d
+2022-02-04 01:03:07.455 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 01:03:12.764 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-04 01:03:27.736 | INFO     | Alarms:input_trades:40 - BIDU 2022-01-31 - 159.7$ Entry point for Up Trend for interval=1d
+2022-02-04 01:03:41.404 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 01:04:09.082 | INFO     | Alarms:input_trades:40 - AKRN.ME 2022-02-01 - 13800.0$ Entry point for Up Trend for interval=1d
+2022-02-04 01:04:11.373 | INFO     | Alarms:input_trades:40 - TGKDP.ME 2022-02-01 - 0.0$ Entry point for Up Trend for interval=1d
+2022-02-04 01:04:12.404 | INFO     | Alarms:input_trades:40 - LSRG.ME 2022-02-01 - 685.8$ Entry point for Up Trend for interval=1d
+2022-02-04 01:04:12.450 | INFO     | Alarms:input_trades:40 - LKOH.ME 2022-02-01 - 6949.5$ Entry point for Up Trend for interval=1d
+2022-02-04 01:04:15.492 | INFO     | Alarms:input_trades:40 - SAGOP.ME 2022-02-02 - 1.3$ Entry point for Up Trend for interval=1d
