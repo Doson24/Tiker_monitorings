@@ -122,12 +122,14 @@ def crosing_point_bigline_cloud(cost, point):
 def crossing_bigLine_ichimoko_cloud(data_ichimoko, tiker, points, interval):
     cost = data_ichimoko['Close'][tiker].dropna()
     a = list(points.values())
+    count = int(list(points.keys())[0])
     for point in a[0]:
-        if crosing_point_bigline_cloud(cost, point) is True:
+        if crosing_point_bigline_cloud(cost, point) == True:
             logger.warning(f'{tiker} {cost.index[-1].date()} - '
-                        f'{float("{0:.1f}".format(cost[-1]))}$ crossing big line Ichimoko cloud for interval={interval}')
+                        f'{float("{0:.1f}".format(cost[-1]))}$ length={count} - crossing line Ichimoko cloud for '
+                           f'interval={interval}')
             return {'name': tiker, 'date_time': [cost.index[-1].date(), cost.index[-1].strftime("%H:%M:%S")],
-                    'text': f'{float("{0:.1f}".format(cost[-1]))}$ crossing big line Ichimoko cloud'}
+                    'text': f'{float("{0:.1f}".format(cost[-1]))}$ crossing line Ichimoko cloud'}
 
 
 def file_tiker(filename, period, interval):
@@ -155,6 +157,7 @@ def file_tiker(filename, period, interval):
                              chikou_span_value, tiker, 5, interval)
             crossing_bigLine_ichimoko_cloud(data_ichimoko, tiker, max_counter(senkou_spanA_value), interval)
             crossing_bigLine_ichimoko_cloud(data_ichimoko, tiker, max_counter(senkou_spanB_value), interval)
+            # logger.info(f"span A = {max_counter(senkou_spanA_value)}, span B = {max_counter(senkou_spanB_value)}")
             if a != None:
                 list_input_trades.append(a)
             # b = a
