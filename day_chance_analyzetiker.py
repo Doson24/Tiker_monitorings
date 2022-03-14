@@ -228,9 +228,7 @@ def other(daily_pct_change = 0):
     plt.show()
 
 def get_pct_chance_months_tiker(tiker):
-    start_date = '2001-01-01'
-    path = Path('Search.txt')
-    tikers = open_file_and_split(path)
+
     # Вывод всех данных
     df_chance_count_month = pd.DataFrame(chance_count_month(tikers, start_date), index=range(1, 13))
     a = [x for x in df_chance_count_month.columns if re.search(tiker, x)]
@@ -238,8 +236,13 @@ def get_pct_chance_months_tiker(tiker):
     return df_chance_count_month[a]
 
 if __name__ == '__main__':
+    start_date = '2001-01-01'
+    path = Path('Search.txt')
+    tikers = open_file_and_split(path)
 
-
+    tiker = 'BABA'
+    print(get_pct_chance_months_tiker(tiker))
+    print(recommendationLast(tiker))
     # data = yf.download(tikers, start=start_date)
 
     # % изменения
@@ -259,8 +262,6 @@ if __name__ == '__main__':
     # df_chance_count_day[a]
 
     # Вывод всех показателей по заданному тикеру
-    tiker = 'BABA'
-    print(get_pct_chance_months_tiker(tiker))
 
     # Вывод толко % по месяцам для каждого тикера
     # a = [x for x in df_chance_count_month.columns if re.search(' chance', x)]
