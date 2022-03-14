@@ -181,3 +181,742 @@
 2022-02-04 01:04:12.404 | INFO     | Alarms:input_trades:40 - LSRG.ME 2022-02-01 - 685.8$ Entry point for Up Trend for interval=1d
 2022-02-04 01:04:12.450 | INFO     | Alarms:input_trades:40 - LKOH.ME 2022-02-01 - 6949.5$ Entry point for Up Trend for interval=1d
 2022-02-04 01:04:15.492 | INFO     | Alarms:input_trades:40 - SAGOP.ME 2022-02-02 - 1.3$ Entry point for Up Trend for interval=1d
+2022-02-04 15:46:29.946 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 15:46:43.701 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-04 15:48:16.333 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-04 15:48:22.513 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:05:39.030 | INFO     | Alarms:file_tiker:158 - span A = {5: [73.15542411804199]}, span B = {28: [72.5464973449707]}
+2022-02-06 12:05:39.082 | INFO     | Alarms:file_tiker:158 - span A = {4: [166.3324966430664, 84.10249710083008]}, span B = {23: [145.3949966430664]}
+2022-02-06 12:05:39.127 | INFO     | Alarms:file_tiker:158 - span A = {5: [28.71500015258789]}, span B = {25: [57.685001373291016]}
+2022-02-06 12:05:39.173 | INFO     | Alarms:file_tiker:158 - span A = {6: [25.057499885559082]}, span B = {15: [24.75]}
+2022-02-06 12:05:39.218 | INFO     | Alarms:file_tiker:158 - span A = {7: [28.119999885559082]}, span B = {17: [54.78000068664551]}
+2022-02-06 12:05:39.264 | INFO     | Alarms:file_tiker:158 - span A = {4: [20.88249969482422, 20.87249994277954]}, span B = {11: [20.954999923706055]}
+2022-02-06 12:05:39.309 | INFO     | Alarms:file_tiker:158 - span A = {5: [30.96250057220459]}, span B = {18: [41.3199987411499]}
+2022-02-06 12:05:39.354 | INFO     | Alarms:file_tiker:158 - span A = {5: [12.365000009536743]}, span B = {22: [11.082499980926514]}
+2022-02-06 12:05:39.399 | INFO     | Alarms:file_tiker:158 - span A = {5: [51.96999931335449, 53.68000030517578, 53.847500801086426]}, span B = {48: [51.96999931335449]}
+2022-02-06 12:05:39.445 | INFO     | Alarms:file_tiker:158 - span A = {5: [56.46249961853027]}, span B = {10: [48.31999969482422, 46.39999961853027]}
+2022-02-06 12:05:39.492 | INFO     | Alarms:file_tiker:158 - span A = {5: [4.8625001311302185, 4.92000013589859, 4.830000042915344, 4.807500004768372, 2.5649999380111694]}, span B = {24: [4.790000081062317]}
+2022-02-06 12:05:39.538 | INFO     | Alarms:file_tiker:158 - span A = {4: [8.452499866485596, 10.180000066757202, 7.5924999713897705]}, span B = {19: [10.250000238418579]}
+2022-02-06 12:05:39.583 | INFO     | Alarms:file_tiker:158 - span A = {7: [33.90999984741211]}, span B = {20: [69.02000045776367]}
+2022-02-06 12:05:39.630 | INFO     | Alarms:file_tiker:158 - span A = {4: [0.05250250082463026, 0.05171750020235777]}, span B = {22: [0.0534800011664629]}
+2022-02-06 12:05:39.677 | INFO     | Alarms:file_tiker:158 - span A = {4: [330.3324966430664, 337.7275085449219, 147.625]}, span B = {15: [354.1700134277344]}
+2022-02-06 12:05:39.723 | INFO     | Alarms:file_tiker:158 - span A = {5: [420.375]}, span B = {25: [465.7250061035156]}
+2022-02-06 12:05:39.767 | INFO     | Alarms:file_tiker:158 - span A = {4: [68.5099983215332]}, span B = {25: [69.36999893188477]}
+2022-02-06 12:05:39.813 | INFO     | Alarms:file_tiker:158 - span A = {6: [66.89749908447266]}, span B = {11: [70.0250015258789]}
+2022-02-06 12:05:39.859 | INFO     | Alarms:file_tiker:158 - span A = {6: [86.5099983215332]}, span B = {26: [86.5099983215332]}
+2022-02-06 12:05:39.905 | INFO     | Alarms:file_tiker:158 - span A = {4: [62.064998626708984, 66.20499992370605, 111.99249839782715, 59.71624946594238]}, span B = {11: [86.0049991607666]}
+2022-02-06 12:05:39.952 | INFO     | Alarms:file_tiker:158 - span A = {6: [490.5500030517578]}, span B = {26: [530.5]}
+2022-02-06 12:05:39.996 | INFO     | Alarms:file_tiker:158 - span A = {4: [20.88249969482422, 20.87249994277954]}, span B = {11: [20.954999923706055]}
+2022-02-06 12:05:40.041 | INFO     | Alarms:file_tiker:158 - span A = {6: [56.57249927520752]}, span B = {20: [58.08250045776367]}
+2022-02-06 12:05:40.086 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:05:40.087 | INFO     | Alarms:file_tiker:158 - span A = {4: [3014.0, 3180.75, 1576.375]}, span B = {28: [3067.5]}
+2022-02-06 12:05:40.132 | INFO     | Alarms:file_tiker:158 - span A = {4: [14.714999914169312]}, span B = {19: [20.649999618530273]}
+2022-02-06 12:05:41.496 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:05:41.498 | INFO     | Alarms:file_tiker:158 - span A = {7: [59.63214874267578]}, span B = {43: [71.46920013427734]}
+2022-02-06 12:05:41.625 | INFO     | Alarms:file_tiker:158 - span A = {7: [184.52000045776367, 186.38249969482422]}, span B = {23: [170.73500061035156]}
+2022-02-06 12:05:42.153 | INFO     | Alarms:file_tiker:158 - span A = {6: [44.77750015258789, 26.292500019073486, 22.15000009536743, 5.666666388511658]}, span B = {34: [1.6527780294418335]}
+2022-02-06 12:05:42.787 | INFO     | Alarms:file_tiker:158 - span A = {8: [13.078125, 14.265625, 0.0]}, span B = {49: [9.125]}
+2022-02-06 12:05:43.779 | INFO     | Alarms:file_tiker:158 - span A = {8: [44.47000026702881, 0.7311199903488159, 0.0]}, span B = {47: [48.20000076293945]}
+2022-02-06 12:05:43.973 | INFO     | Alarms:file_tiker:158 - span A = {8: [18.288264751434326, 0.0]}, span B = {28: [22.124999523162842]}
+2022-02-06 12:05:44.232 | INFO     | Alarms:file_tiker:158 - span A = {7: [48.5, 22.894999980926514]}, span B = {32: [18.074999809265137]}
+2022-02-06 12:05:44.355 | INFO     | Alarms:file_tiker:158 - span A = {6: [12.69249975681305]}, span B = {24: [38.36500072479248]}
+2022-02-06 12:05:45.048 | INFO     | Alarms:file_tiker:158 - span A = {8: [0.40625, 0.0]}, span B = {38: [0.9322919845581055]}
+2022-02-06 12:05:45.870 | INFO     | Alarms:file_tiker:158 - span A = {0: []}, span B = {34: [37.59487533569336]}
+2022-02-06 12:05:46.063 | INFO     | Alarms:file_tiker:158 - span A = {6: [34.21749973297119, 30.042500019073486, 5.052499890327454, 1.6591664850711823]}, span B = {35: [34.355000495910645]}
+2022-02-06 12:05:46.229 | INFO     | Alarms:file_tiker:158 - span A = {5: [25.737499713897705, 0.2672500014305115]}, span B = {25: [13.464999675750732]}
+2022-02-06 12:05:46.430 | INFO     | Alarms:file_tiker:158 - span A = {6: [75.03788757324219, 191.625, 44.94475078582764]}, span B = {47: [81.63274955749512]}
+2022-02-06 12:05:46.633 | INFO     | Alarms:file_tiker:158 - span A = {8: [0.04802749934606254, 0.0]}, span B = {44: [0.038925000466406345]}
+2022-02-06 12:05:46.838 | INFO     | Alarms:file_tiker:158 - span A = {5: [216.90749740600586, 146.2699966430664, 141.90499877929688, 135.13500213623047]}, span B = {46: [127.63035213947296]}
+2022-02-06 12:05:47.038 | INFO     | Alarms:file_tiker:158 - span A = {0: []}, span B = {44: [180.5]}
+2022-02-06 12:05:47.506 | INFO     | Alarms:file_tiker:158 - span A = {0: []}, span B = {39: [12.399999618530273]}
+2022-02-06 12:05:47.590 | INFO     | Alarms:file_tiker:158 - span A = {6: [136.89500045776367]}, span B = {36: [130.45999908447266]}
+2022-02-06 12:05:47.617 | INFO     | Alarms:file_tiker:158 - span A = {6: [88.2874984741211]}, span B = {4: [83.98500061035156, 91.95000076293945]}
+2022-02-06 12:05:47.667 | INFO     | Alarms:file_tiker:158 - span A = {7: [167.32750129699707]}, span B = {21: [160.43000030517578]}
+2022-02-06 12:05:47.838 | INFO     | Alarms:file_tiker:158 - span A = {7: [533.2500152587891]}, span B = {44: [604.7000122070312]}
+2022-02-06 12:05:48.031 | INFO     | Alarms:file_tiker:158 - span A = {8: [18.288264751434326, 0.0]}, span B = {28: [22.124999523162842]}
+2022-02-06 12:05:48.081 | INFO     | Alarms:file_tiker:158 - span A = {6: [19.9350004196167]}, span B = {32: [19.9350004196167]}
+2022-02-06 12:05:48.224 | INFO     | Alarms:file_tiker:158 - span A = {6: [14.043299674987793]}, span B = {20: [27.623499870300293]}
+2022-02-06 12:05:48.339 | INFO     | Alarms:file_tiker:158 - span A = {5: [38.822500228881836]}, span B = {23: [47.61000156402588]}
+2022-02-06 12:05:51.090 | INFO     | Alarms:file_tiker:158 - span A = {6: [30.970674514770508]}, span B = {45: [29.75950050354004]}
+2022-02-06 12:05:51.122 | INFO     | Alarms:file_tiker:158 - span A = {4: [38.0649995803833]}, span B = {11: [134.44999885559082]}
+2022-02-06 12:05:51.249 | INFO     | Alarms:file_tiker:158 - span A = {5: [43.33500003814697, 26.837501049041748]}, span B = {29: [23.92500066757202]}
+2022-02-06 12:05:51.398 | INFO     | Alarms:file_tiker:158 - span A = {6: [33.96749973297119]}, span B = {39: [31.9350004196167]}
+2022-02-06 12:05:51.547 | INFO     | Alarms:file_tiker:158 - span A = {8: [48.20000076293945, 0.0]}, span B = {22: [48.20000076293945]}
+2022-02-06 12:05:51.594 | INFO     | Alarms:file_tiker:158 - span A = {5: [25.149999618530273, 34.045000076293945]}, span B = {35: [28.83500051498413]}
+2022-02-06 12:05:51.657 | INFO     | Alarms:file_tiker:158 - span A = {6: [17.09999990463257]}, span B = {13: [49.179999351501465, 15.700000047683716]}
+2022-02-06 12:05:51.689 | INFO     | Alarms:file_tiker:158 - span A = {4: [30.647499203681946, 7.347499847412109]}, span B = {14: [30.480000734329224]}
+2022-02-06 12:05:51.834 | INFO     | Alarms:file_tiker:158 - span A = {0: []}, span B = {28: [20.019999980926514]}
+2022-02-06 12:05:52.027 | INFO     | Alarms:file_tiker:158 - span A = {6: [33.96584415435791, 5.124328017234802]}, span B = {21: [2.1026055216789246]}
+2022-02-06 12:05:52.075 | INFO     | Alarms:file_tiker:158 - span A = {4: [47.4949996471405, 0.7904167473316193]}, span B = {7: [26.021667003631592, 25.99083399772644, 3.852500021457672]}
+2022-02-06 12:05:52.117 | INFO     | Alarms:file_tiker:158 - span A = {5: [13.464999675750732, 17.137499809265137]}, span B = {13: [25.15499997138977]}
+2022-02-06 12:05:52.167 | INFO     | Alarms:file_tiker:158 - span A = {5: [52.51975059509277]}, span B = {21: [125.67500019073486]}
+2022-02-06 12:05:52.218 | INFO     | Alarms:file_tiker:158 - span A = {5: [0.04704749910160899]}, span B = {26: [0.05647500045597553]}
+2022-02-06 12:05:52.271 | INFO     | Alarms:file_tiker:158 - span A = {6: [138.52750205993652, 127.63035213947296]}, span B = {23: [127.63035213947296]}
+2022-02-06 12:05:52.322 | INFO     | Alarms:file_tiker:158 - span A = {7: [355.7749938964844]}, span B = {12: [171.5250015258789]}
+2022-02-06 12:05:52.437 | INFO     | Alarms:file_tiker:158 - span A = {8: [1.0625, 0.0]}, span B = {22: [2.4177084118127823]}
+2022-02-06 12:05:52.461 | INFO     | Alarms:file_tiker:158 - span A = {3: [114.85725021362305]}, span B = {3: [102.19250011444092]}
+2022-02-06 12:05:52.482 | INFO     | Alarms:file_tiker:158 - span A = {3: [83.56500053405762, 53.83500099182129]}, span B = {0: []}
+2022-02-06 12:05:52.525 | INFO     | Alarms:file_tiker:158 - span A = {7: [607.125]}, span B = {9: [306.87999725341797]}
+2022-02-06 12:05:52.573 | INFO     | Alarms:file_tiker:158 - span A = {5: [25.149999618530273, 34.045000076293945]}, span B = {35: [28.83500051498413]}
+2022-02-06 12:05:52.589 | INFO     | Alarms:file_tiker:158 - span A = {8: [9.96750020980835, 0.0]}, span B = {0: []}
+2022-02-06 12:05:52.626 | INFO     | Alarms:file_tiker:158 - span A = {4: [16.85985040664673]}, span B = {23: [36.689650535583496]}
+2022-02-06 12:05:52.656 | INFO     | Alarms:file_tiker:158 - span A = {3: [5.950750112533569]}, span B = {4: [39.14000177383423, 36.120001792907715]}
+2022-02-06 12:24:17.190 | INFO     | Alarms:file_tiker:158 - span A = {5: [73.15542411804199]}, span B = {28: [72.5464973449707]}
+2022-02-06 12:26:27.143 | INFO     | Alarms:file_tiker:158 - span A = {4: [166.3324966430664, 84.10249710083008]}, span B = {23: [145.3949966430664]}
+2022-02-06 12:26:38.591 | INFO     | Alarms:file_tiker:158 - span A = {5: [28.71500015258789]}, span B = {25: [57.685001373291016]}
+2022-02-06 12:26:49.316 | INFO     | Alarms:file_tiker:158 - span A = {6: [25.057499885559082]}, span B = {15: [24.75]}
+2022-02-06 12:26:51.592 | INFO     | Alarms:file_tiker:158 - span A = {7: [28.119999885559082]}, span B = {17: [54.78000068664551]}
+2022-02-06 12:26:53.837 | INFO     | Alarms:file_tiker:158 - span A = {4: [20.88249969482422, 20.87249994277954]}, span B = {11: [20.954999923706055]}
+2022-02-06 12:26:55.871 | INFO     | Alarms:file_tiker:158 - span A = {5: [30.96250057220459]}, span B = {18: [41.3199987411499]}
+2022-02-06 12:26:57.857 | INFO     | Alarms:file_tiker:158 - span A = {5: [12.365000009536743]}, span B = {22: [11.082499980926514]}
+2022-02-06 12:27:04.848 | INFO     | Alarms:file_tiker:158 - span A = {5: [51.96999931335449, 53.68000030517578, 53.847500801086426]}, span B = {48: [51.96999931335449]}
+2022-02-06 12:27:06.597 | INFO     | Alarms:file_tiker:158 - span A = {5: [56.46249961853027]}, span B = {10: [48.31999969482422, 46.39999961853027]}
+2022-02-06 12:27:08.394 | INFO     | Alarms:file_tiker:158 - span A = {5: [4.8625001311302185, 4.92000013589859, 4.830000042915344, 4.807500004768372, 2.5649999380111694]}, span B = {24: [4.790000081062317]}
+2022-02-06 12:27:10.063 | INFO     | Alarms:file_tiker:158 - span A = {4: [8.452499866485596, 10.180000066757202, 7.5924999713897705]}, span B = {19: [10.250000238418579]}
+2022-02-06 12:27:11.778 | INFO     | Alarms:file_tiker:158 - span A = {7: [33.90999984741211]}, span B = {20: [69.02000045776367]}
+2022-02-06 12:27:13.518 | INFO     | Alarms:file_tiker:158 - span A = {4: [0.05250250082463026, 0.05171750020235777]}, span B = {22: [0.0534800011664629]}
+2022-02-06 12:27:15.044 | INFO     | Alarms:file_tiker:158 - span A = {4: [330.3324966430664, 337.7275085449219, 147.625]}, span B = {15: [354.1700134277344]}
+2022-02-06 12:27:16.634 | INFO     | Alarms:file_tiker:158 - span A = {5: [420.375]}, span B = {25: [465.7250061035156]}
+2022-02-06 12:27:18.702 | INFO     | Alarms:file_tiker:158 - span A = {4: [68.5099983215332]}, span B = {25: [69.36999893188477]}
+2022-02-06 12:27:20.558 | INFO     | Alarms:file_tiker:158 - span A = {6: [66.89749908447266]}, span B = {11: [70.0250015258789]}
+2022-02-06 12:27:22.718 | INFO     | Alarms:file_tiker:158 - span A = {6: [86.5099983215332]}, span B = {26: [86.5099983215332]}
+2022-02-06 12:27:24.393 | INFO     | Alarms:file_tiker:158 - span A = {4: [62.064998626708984, 66.20499992370605, 111.99249839782715, 59.71624946594238]}, span B = {11: [86.0049991607666]}
+2022-02-06 12:27:26.803 | INFO     | Alarms:file_tiker:158 - span A = {6: [490.5500030517578]}, span B = {26: [530.5]}
+2022-02-06 12:27:37.313 | INFO     | Alarms:file_tiker:158 - span A = {4: [20.88249969482422, 20.87249994277954]}, span B = {11: [20.954999923706055]}
+2022-02-06 12:27:39.960 | INFO     | Alarms:file_tiker:158 - span A = {6: [56.57249927520752]}, span B = {20: [58.08250045776367]}
+2022-02-06 12:27:40.110 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:32:11.931 | INFO     | Alarms:file_tiker:158 - span A = {5: [73.15542411804199]}, span B = {28: [72.5464973449707]}
+2022-02-06 12:32:12.081 | INFO     | Alarms:file_tiker:158 - span A = {4: [166.3324966430664, 84.10249710083008]}, span B = {23: [145.3949966430664]}
+2022-02-06 12:32:12.229 | INFO     | Alarms:file_tiker:158 - span A = {5: [28.71500015258789]}, span B = {25: [57.685001373291016]}
+2022-02-06 12:32:12.375 | INFO     | Alarms:file_tiker:158 - span A = {6: [25.057499885559082]}, span B = {15: [24.75]}
+2022-02-06 12:32:12.525 | INFO     | Alarms:file_tiker:158 - span A = {7: [28.119999885559082]}, span B = {17: [54.78000068664551]}
+2022-02-06 12:32:12.675 | INFO     | Alarms:file_tiker:158 - span A = {4: [20.88249969482422, 20.87249994277954]}, span B = {11: [20.954999923706055]}
+2022-02-06 12:32:12.823 | INFO     | Alarms:file_tiker:158 - span A = {5: [30.96250057220459]}, span B = {18: [41.3199987411499]}
+2022-02-06 12:32:12.971 | INFO     | Alarms:file_tiker:158 - span A = {5: [12.365000009536743]}, span B = {22: [11.082499980926514]}
+2022-02-06 12:32:13.118 | INFO     | Alarms:file_tiker:158 - span A = {5: [51.96999931335449, 53.68000030517578, 53.847500801086426]}, span B = {48: [51.96999931335449]}
+2022-02-06 12:32:13.266 | INFO     | Alarms:file_tiker:158 - span A = {5: [56.46249961853027]}, span B = {10: [48.31999969482422, 46.39999961853027]}
+2022-02-06 12:32:13.415 | INFO     | Alarms:file_tiker:158 - span A = {5: [4.8625001311302185, 4.92000013589859, 4.830000042915344, 4.807500004768372, 2.5649999380111694]}, span B = {24: [4.790000081062317]}
+2022-02-06 12:32:13.564 | INFO     | Alarms:file_tiker:158 - span A = {4: [8.452499866485596, 10.180000066757202, 7.5924999713897705]}, span B = {19: [10.250000238418579]}
+2022-02-06 12:32:13.714 | INFO     | Alarms:file_tiker:158 - span A = {7: [33.90999984741211]}, span B = {20: [69.02000045776367]}
+2022-02-06 12:32:13.866 | INFO     | Alarms:file_tiker:158 - span A = {4: [0.05250250082463026, 0.05171750020235777]}, span B = {22: [0.0534800011664629]}
+2022-02-06 12:32:14.015 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - GAZP.ME 2022-02-04 - 321.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:32:14.016 | INFO     | Alarms:file_tiker:158 - span A = {4: [330.3324966430664, 337.7275085449219, 147.625]}, span B = {15: [354.1700134277344]}
+2022-02-06 12:32:14.165 | INFO     | Alarms:file_tiker:158 - span A = {5: [420.375]}, span B = {25: [465.7250061035156]}
+2022-02-06 12:32:14.313 | INFO     | Alarms:file_tiker:158 - span A = {4: [68.5099983215332]}, span B = {25: [69.36999893188477]}
+2022-02-06 12:32:14.462 | INFO     | Alarms:file_tiker:158 - span A = {6: [66.89749908447266]}, span B = {11: [70.0250015258789]}
+2022-02-06 12:32:14.614 | INFO     | Alarms:file_tiker:158 - span A = {6: [86.5099983215332]}, span B = {26: [86.5099983215332]}
+2022-02-06 12:32:14.766 | INFO     | Alarms:file_tiker:158 - span A = {4: [62.064998626708984, 66.20499992370605, 111.99249839782715, 59.71624946594238]}, span B = {11: [86.0049991607666]}
+2022-02-06 12:32:14.916 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - TATN.ME 2022-02-04 - 489.9$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:32:14.917 | INFO     | Alarms:file_tiker:158 - span A = {6: [490.5500030517578]}, span B = {26: [530.5]}
+2022-02-06 12:32:15.066 | INFO     | Alarms:file_tiker:158 - span A = {4: [20.88249969482422, 20.87249994277954]}, span B = {11: [20.954999923706055]}
+2022-02-06 12:32:15.214 | INFO     | Alarms:file_tiker:158 - span A = {6: [56.57249927520752]}, span B = {20: [58.08250045776367]}
+2022-02-06 12:32:15.362 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:32:15.364 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - FXCN.ME 2022-02-04 - 3064.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:32:15.364 | INFO     | Alarms:file_tiker:158 - span A = {4: [3014.0, 3180.75, 1576.375]}, span B = {28: [3067.5]}
+2022-02-06 12:32:15.513 | INFO     | Alarms:file_tiker:158 - span A = {4: [14.714999914169312]}, span B = {19: [20.649999618530273]}
+2022-02-06 12:35:53.062 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - GAZP.ME 2022-02-04 - 321.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:35:53.335 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - TATN.ME 2022-02-04 - 489.9$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:35:53.472 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:35:53.473 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - FXCN.ME 2022-02-04 - 3064.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:35:54.822 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:36:05.265 | INFO     | Alarms:input_trades:40 - BIDU 2022-02-04 - 158.4$ Entry point for Up Trend for interval=1d
+2022-02-06 12:36:05.266 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - BIDU 2022-02-04 - 158.4$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:13.159 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:36:13.160 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - FXCN.ME 2022-02-04 - 3064.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:29.615 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - ETLN.ME 2022-02-04 - 86.0$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:29.851 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - ISKJ.ME 2022-02-04 - 91.7$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:30.235 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - TCSG.ME 2022-02-04 - 5116.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:30.418 | INFO     | Alarms:input_trades:40 - AKRN.ME 2022-02-01 - 13800.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:36:30.511 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - APTK.ME 2022-02-04 - 13.8$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:31.016 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - BSPB.ME 2022-02-04 - 79.8$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:31.654 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - SIBN.ME 2022-02-04 - 500.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:31.699 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - GAZP.ME 2022-02-04 - 321.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:32.111 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - ZILL.ME 2022-02-04 - 4285.0$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:32.476 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - KLSB.ME 2022-02-04 - 10.3$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:32.707 | INFO     | Alarms:input_trades:40 - TGKDP.ME 2022-02-01 - 0.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:36:33.214 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - KAZT.ME 2022-02-04 - 368.0$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:33.215 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - KAZT.ME 2022-02-04 - 368.0$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:33.673 | INFO     | Alarms:input_trades:40 - LSRG.ME 2022-02-01 - 685.8$ Entry point for Up Trend for interval=1d
+2022-02-06 12:36:33.720 | INFO     | Alarms:input_trades:40 - LKOH.ME 2022-02-01 - 6949.5$ Entry point for Up Trend for interval=1d
+2022-02-06 12:36:34.223 | INFO     | Alarms:input_trades:54 - MTLRP.ME 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 12:36:35.782 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - RASP.ME 2022-02-04 - 408.0$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:36.378 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - RTKMP.ME 2022-02-04 - 69.5$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:36.746 | INFO     | Alarms:input_trades:40 - SAGOP.ME 2022-02-02 - 1.3$ Entry point for Up Trend for interval=1d
+2022-02-06 12:36:36.839 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - KRKNP.ME 2022-02-04 - 15180.0$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:37.709 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - TATN.ME 2022-02-04 - 489.9$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:39.130 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - HIMCP.ME 2022-02-04 - 9.6$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:39.222 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - WTCMP.ME 2022-02-04 - 8.7$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:39.314 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - CHKZ.ME 2022-02-04 - 6860.0$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:36:39.679 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - UTAR.ME 2022-02-04 - 9.1$ crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:37:10.776 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - DVEC.ME 2022-02-04 - 1.1$ crossing big line Ichimoko cloud for interval=1wk
+2022-02-06 12:37:19.769 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - MFGSP.ME 2022-02-04 - 298.0$ crossing big line Ichimoko cloud for interval=1wk
+2022-02-06 12:37:36.769 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - KBSB.ME 2022-02-04 - 140.0$ crossing big line Ichimoko cloud for interval=1wk
+2022-02-06 12:38:13.941 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - NNSB.ME 2022-02-04 - 1960.0$ crossing big line Ichimoko cloud for interval=1mo
+2022-02-06 12:39:30.221 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - GAZP.ME 2022-02-04 - 321.5$ crossing big line Ichimoko cloud for interval=1d, count=dict_keys([4])
+2022-02-06 12:39:30.266 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - SIBN.ME 2022-02-04 - 500.5$ crossing big line Ichimoko cloud for interval=1d, count=dict_keys([4])
+2022-02-06 12:39:30.485 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - TATN.ME 2022-02-04 - 489.9$ crossing big line Ichimoko cloud for interval=1d, count=dict_keys([6])
+2022-02-06 12:39:30.616 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:39:30.617 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - FXCN.ME 2022-02-04 - 3064.5$ crossing big line Ichimoko cloud for interval=1d, count=dict_keys([28])
+2022-02-06 12:39:34.755 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:40:27.249 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:40:30.745 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:41:00.143 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:41:04.506 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:41:18.663 | INFO     | Alarms:input_trades:40 - BIDU 2022-02-04 - 158.4$ Entry point for Up Trend for interval=1d
+2022-02-06 12:42:09.098 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:42:13.059 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:42:47.830 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - GAZP.ME 2022-02-04 - 321.5$ crossing big line Ichimoko cloud for interval=1d, count=dict_keys([4])
+2022-02-06 12:42:47.876 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - SIBN.ME 2022-02-04 - 500.5$ crossing big line Ichimoko cloud for interval=1d, count=dict_keys([4])
+2022-02-06 12:42:48.099 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - TATN.ME 2022-02-04 - 489.9$ crossing big line Ichimoko cloud for interval=1d, count=dict_keys([6])
+2022-02-06 12:42:48.236 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:42:48.237 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:127 - FXCN.ME 2022-02-04 - 3064.5$ crossing big line Ichimoko cloud for interval=1d, count=dict_keys([28])
+2022-02-06 12:42:51.843 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:44:50.781 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:44:54.400 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:45:08.406 | INFO     | Alarms:input_trades:40 - BIDU 2022-02-04 - 158.4$ Entry point for Up Trend for interval=1d
+2022-02-06 12:53:37.775 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - GAZP.ME 2022-02-04 - 321.5$ crossing big line Ichimoko cloud for interval=1d, count=4
+2022-02-06 12:53:38.674 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TATN.ME 2022-02-04 - 489.9$ crossing big line Ichimoko cloud for interval=1d, count=6
+2022-02-06 12:53:39.120 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:53:39.122 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FXCN.ME 2022-02-04 - 3064.5$ crossing big line Ichimoko cloud for interval=1d, count=28
+2022-02-06 12:53:41.690 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:54:14.163 | INFO     | Alarms:input_trades:40 - BIDU 2022-02-04 - 158.4$ Entry point for Up Trend for interval=1d
+2022-02-06 12:54:14.165 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BIDU 2022-02-04 - 158.4$ crossing big line Ichimoko cloud for interval=1d, count=21
+2022-02-06 12:54:38.120 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:54:38.123 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FXCN.ME 2022-02-04 - 3064.5$ crossing big line Ichimoko cloud for interval=1d, count=28
+2022-02-06 12:54:56.268 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - GAZP.ME 2022-02-04 - 321.5$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:54:56.415 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SIBN.ME 2022-02-04 - 500.5$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:54:57.151 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TATN.ME 2022-02-04 - 489.9$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:54:57.589 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:54:57.591 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FXCN.ME 2022-02-04 - 3064.5$ count=28 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:55:04.022 | INFO     | Alarms:input_trades:40 - RUB=X 2022-01-24 - 78.1$ Entry point for Up Trend for interval=1wk
+2022-02-06 12:55:40.478 | INFO     | Alarms:input_trades:40 - BIDU 2022-02-04 - 158.4$ Entry point for Up Trend for interval=1d
+2022-02-06 12:55:40.481 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BIDU 2022-02-04 - 158.4$ count=21 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:08.281 | INFO     | Alarms:input_trades:40 - FXCN.ME 2022-02-01 - 3100.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:56:08.284 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FXCN.ME 2022-02-04 - 3064.5$ count=28 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:35.800 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ETLN.ME 2022-02-04 - 86.0$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:36.543 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ISKJ.ME 2022-02-04 - 91.7$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:37.739 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TCSG.ME 2022-02-04 - 5116.5$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:38.332 | INFO     | Alarms:input_trades:40 - AKRN.ME 2022-02-01 - 13800.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:56:38.633 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - APTK.ME 2022-02-04 - 13.8$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:40.259 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BSPB.ME 2022-02-04 - 79.8$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:42.338 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SIBN.ME 2022-02-04 - 500.5$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:42.487 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - GAZP.ME 2022-02-04 - 321.5$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:43.821 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ZILL.ME 2022-02-04 - 4285.0$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:45.748 | INFO     | Alarms:input_trades:40 - TGKDP.ME 2022-02-01 - 0.0$ Entry point for Up Trend for interval=1d
+2022-02-06 12:56:47.381 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KAZT.ME 2022-02-04 - 368.0$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:47.382 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KAZT.ME 2022-02-04 - 368.0$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:48.972 | INFO     | Alarms:input_trades:40 - LSRG.ME 2022-02-01 - 685.8$ Entry point for Up Trend for interval=1d
+2022-02-06 12:56:49.124 | INFO     | Alarms:input_trades:40 - LKOH.ME 2022-02-01 - 6949.5$ Entry point for Up Trend for interval=1d
+2022-02-06 12:56:50.761 | INFO     | Alarms:input_trades:54 - MTLRP.ME 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 12:56:55.899 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - RASP.ME 2022-02-04 - 408.0$ count=29 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:57.832 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - RTKMP.ME 2022-02-04 - 69.5$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:56:59.027 | INFO     | Alarms:input_trades:40 - SAGOP.ME 2022-02-02 - 1.3$ Entry point for Up Trend for interval=1d
+2022-02-06 12:56:59.334 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KRKNP.ME 2022-02-04 - 15180.0$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:57:02.172 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TATN.ME 2022-02-04 - 489.9$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:57:06.781 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HIMCP.ME 2022-02-04 - 9.6$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:57:07.080 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WTCMP.ME 2022-02-04 - 8.7$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:57:07.379 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - CHKZ.ME 2022-02-04 - 6860.0$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:57:08.574 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UTAR.ME 2022-02-04 - 9.1$ count=17 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 12:58:00.928 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - DVEC.ME 2022-02-04 - 1.1$ count=41 - crossing big line Ichimoko cloud for interval=1wk
+2022-02-06 12:58:30.715 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MFGSP.ME 2022-02-04 - 298.0$ count=6 - crossing big line Ichimoko cloud for interval=1wk
+2022-02-06 12:59:26.955 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KBSB.ME 2022-02-04 - 140.0$ count=8 - crossing big line Ichimoko cloud for interval=1wk
+2022-02-06 13:00:40.359 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NNSB.ME 2022-02-04 - 1960.0$ count=17 - crossing big line Ichimoko cloud for interval=1mo
+2022-02-06 13:02:32.134 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AAP 2022-02-04 - 227.0$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:32.135 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AAP 2022-02-04 - 227.0$ count=22 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:34.779 | INFO     | Alarms:input_trades:54 - AA 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:02:36.254 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ALSN 2022-02-04 - 38.6$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:38.463 | INFO     | Alarms:input_trades:54 - AEE 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:02:39.196 | INFO     | Alarms:input_trades:54 - AIG 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:02:40.085 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AMP 2022-02-04 - 308.1$ count=16 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:41.120 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PLAN 2022-02-04 - 46.2$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:43.770 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ARMK 2022-02-04 - 35.8$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:44.954 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AJG 2022-02-04 - 156.3$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:46.282 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ATKR 2022-02-04 - 100.8$ count=11 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:48.641 | INFO     | Alarms:input_trades:40 - BIDU 2022-02-04 - 158.4$ Entry point for Up Trend for interval=1d
+2022-02-06 13:02:48.644 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BIDU 2022-02-04 - 158.4$ count=21 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:53.871 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BWA 2022-02-04 - 43.3$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:54.021 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BXP 2022-02-04 - 112.7$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:54.314 | INFO     | Alarms:input_trades:54 - EPAY 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:02:54.762 | INFO     | Alarms:input_trades:54 - BHF 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:02:54.909 | INFO     | Alarms:input_trades:54 - BMY 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:02:57.261 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - CVGW 2022-02-04 - 41.7$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:02:57.556 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - COF 2022-02-04 - 150.4$ count=14 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:00.063 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - CVCO 2022-02-04 - 290.7$ count=16 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:00.210 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - CDK 2022-02-04 - 41.6$ count=21 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:01.531 | INFO     | Alarms:input_trades:40 - CHX 2022-02-04 - 23.8$ Entry point for Up Trend for interval=1d
+2022-02-06 13:03:01.534 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - CHX 2022-02-04 - 23.8$ count=19 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:04.468 | INFO     | Alarms:input_trades:54 - CINF 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:05.934 | INFO     | Alarms:input_trades:54 - CMS 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:09.613 | INFO     | Alarms:input_trades:54 - CTVA 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:10.055 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - COST 2022-02-04 - 519.8$ count=10 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:11.821 | INFO     | Alarms:input_trades:54 - CFR 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:19.184 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - DD 2022-02-04 - 76.1$ count=3 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:20.664 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - EPC 2022-02-04 - 43.0$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:22.140 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - EMR 2022-02-04 - 95.4$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:23.171 | INFO     | Alarms:input_trades:54 - ETR 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:23.913 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - EQT 2022-02-04 - 21.6$ count=17 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:26.135 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - EXEL 2022-02-04 - 18.8$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:26.430 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - EXLS 2022-02-04 - 122.4$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:27.905 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FAST 2022-02-04 - 55.0$ count=13 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:28.348 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FDX 2022-02-04 - 244.1$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:28.349 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FDX 2022-02-04 - 244.1$ count=22 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:28.938 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FIS 2022-02-04 - 113.8$ count=21 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:29.236 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - XLF 2022-02-04 - 40.1$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:31.008 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FOCS 2022-02-04 - 52.3$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:31.455 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FORM 2022-02-04 - 40.1$ count=34 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:31.748 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FTNT 2022-02-04 - 314.3$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:33.957 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - GTX 2022-02-04 - 6.9$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:34.545 | INFO     | Alarms:input_trades:54 - GD 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:37.052 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - GDDY 2022-02-04 - 76.4$ count=25 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:37.636 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - LOPE 2022-02-04 - 81.9$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:41.456 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HP 2022-02-04 - 32.5$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:43.040 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HLT 2022-02-04 - 145.5$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:43.042 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HLT 2022-02-04 - 145.5$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:43.334 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HOLX 2022-02-04 - 74.7$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:43.335 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HOLX 2022-02-04 - 74.7$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:43.778 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HST 2022-02-04 - 17.5$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:45.844 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - IAC 2022-02-04 - 132.0$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:46.874 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ITW 2022-02-04 - 228.9$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:48.198 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NSP 2022-02-04 - 107.3$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:49.815 | INFO     | Alarms:input_trades:54 - IBM 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:53.790 | INFO     | Alarms:input_trades:40 - FLOT 2022-02-03 - 50.7$ Entry point for Up Trend for interval=1d
+2022-02-06 13:03:55.407 | INFO     | Alarms:input_trades:54 - EUFN 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:58.357 | INFO     | Alarms:input_trades:40 - JACK 2022-02-04 - 91.8$ Entry point for Up Trend for interval=1d
+2022-02-06 13:03:58.359 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - JACK 2022-02-04 - 91.8$ count=34 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:58.654 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - JD 2022-02-04 - 73.8$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:03:59.242 | INFO     | Alarms:input_trades:54 - JNJ 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:03:59.686 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - JLL 2022-02-04 - 250.6$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:00.681 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - K 2022-02-04 - 61.6$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:00.682 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - K 2022-02-04 - 61.6$ count=25 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:01.268 | INFO     | Alarms:input_trades:54 - KEY 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:01.564 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KMB 2022-02-04 - 132.7$ count=19 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:04.361 | INFO     | Alarms:input_trades:54 - LEGH 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:04.362 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - LEGH 2022-02-04 - 26.2$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:04.657 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - LDOS 2022-02-04 - 89.1$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:05.248 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - LEVI 2022-02-04 - 22.5$ count=7 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:06.137 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - LIN 2022-02-04 - 298.0$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:06.582 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - LYV 2022-02-04 - 108.4$ count=13 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:07.759 | INFO     | Alarms:input_trades:54 - LPLA 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:08.060 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - LITE 2022-02-04 - 90.4$ count=22 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:08.501 | INFO     | Alarms:input_trades:54 - MTB 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:08.945 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MSGE 2022-02-04 - 70.3$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:10.252 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MANT 2022-02-04 - 80.7$ count=30 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:12.169 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - XLB 2022-02-04 - 83.1$ count=12 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:12.612 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MAT 2022-02-04 - 21.3$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:14.080 | INFO     | Alarms:input_trades:40 - MLCO 2022-02-01 - 10.9$ Entry point for Up Trend for interval=1d
+2022-02-06 13:04:17.621 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MDLZ 2022-02-04 - 67.0$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:18.504 | INFO     | Alarms:input_trades:54 - MS 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:18.653 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MORN 2022-02-04 - 294.9$ count=17 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:19.390 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MSM 2022-02-04 - 81.1$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:19.391 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MSM 2022-02-04 - 81.1$ count=41 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:19.984 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MUSA 2022-02-04 - 183.5$ count=11 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:23.978 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NWL 2022-02-04 - 21.3$ count=27 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:26.014 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - JWN 2022-02-04 - 22.0$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:26.337 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NTRS 2022-02-04 - 121.6$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:26.641 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NLOK 2022-02-04 - 27.6$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:27.718 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NVEE 2022-02-04 - 101.6$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:28.021 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NVR 2022-02-04 - 5275.0$ count=15 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:28.635 | INFO     | Alarms:input_trades:40 - OII 2022-02-01 - 14.3$ Entry point for Up Trend for interval=1d
+2022-02-06 13:04:29.106 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ODFL 2022-02-04 - 309.6$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:29.258 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - OLLI 2022-02-04 - 46.9$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:29.859 | INFO     | Alarms:input_trades:54 - OKE 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:32.000 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PANW 2022-02-04 - 515.5$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:32.002 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PANW 2022-02-04 - 515.5$ count=15 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:33.927 | INFO     | Alarms:input_trades:54 - PBCT 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:35.852 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PNFP 2022-02-04 - 98.4$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:37.041 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - POST 2022-02-04 - 104.1$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:37.353 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PPG 2022-02-04 - 153.0$ count=14 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:37.508 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PPL 2022-02-04 - 29.4$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:37.995 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PBH 2022-02-04 - 58.3$ count=3 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:37.996 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PBH 2022-02-04 - 58.3$ count=28 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:38.151 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PRI 2022-02-04 - 153.7$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:38.636 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PLD 2022-02-04 - 153.5$ count=3 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:38.638 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PLD 2022-02-04 - 153.5$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:40.556 | INFO     | Alarms:input_trades:54 - PRU 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:41.175 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PHM 2022-02-04 - 48.7$ count=11 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:44.191 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - O 2022-02-04 - 68.2$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:45.684 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - RS 2022-02-04 - 156.1$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:48.344 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - RCL 2022-02-04 - 75.6$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:48.646 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - RPM 2022-02-04 - 86.4$ count=9 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:49.240 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SAGE 2022-02-04 - 42.0$ count=31 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:51.172 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SEE 2022-02-04 - 64.4$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:53.536 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SSD 2022-02-04 - 109.0$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:53.684 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SBGI 2022-02-04 - 26.5$ count=14 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:55.317 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SNA 2022-02-04 - 213.7$ count=43 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:57.383 | INFO     | Alarms:input_trades:54 - XOP 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:04:57.975 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SPLK 2022-02-04 - 117.8$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:04:58.122 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SFM 2022-02-04 - 28.8$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:00.634 | INFO     | Alarms:input_trades:40 - SUPN 2022-02-04 - 30.9$ Entry point for Up Trend for interval=1d
+2022-02-06 13:05:00.636 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - SUPN 2022-02-04 - 30.9$ count=27 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:02.109 | INFO     | Alarms:input_trades:40 - TMUS 2022-02-03 - 120.8$ Entry point for Up Trend for interval=1d
+2022-02-06 13:05:02.850 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TTWO 2022-02-04 - 175.0$ count=20 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:03.740 | INFO     | Alarms:input_trades:54 - TTM 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:05:03.889 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TMHC 2022-02-04 - 29.5$ count=8 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:04.485 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FTI 2022-02-04 - 6.8$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:04.783 | INFO     | Alarms:input_trades:40 - TGNA 2022-02-01 - 19.9$ Entry point for Up Trend for interval=1d
+2022-02-06 13:05:04.785 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TGNA 2022-02-04 - 21.3$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:05.668 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TENB 2022-02-04 - 50.7$ count=21 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:05.963 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TER 2022-02-04 - 114.0$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:06.405 | INFO     | Alarms:input_trades:54 - TCBI 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:05:08.473 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - CLX 2022-02-04 - 141.4$ count=26 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:10.245 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HIG 2022-02-04 - 70.5$ count=30 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:10.688 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - HD 2022-02-04 - 359.7$ count=3 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:10.984 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - IPG 2022-02-04 - 36.3$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:11.281 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KHC 2022-02-04 - 34.8$ count=34 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:12.757 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - XLRE 2022-02-04 - 46.7$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:14.385 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WU 2022-02-04 - 18.1$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:14.387 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WU 2022-02-04 - 18.1$ count=21 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:15.719 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TDG 2022-02-04 - 619.6$ count=38 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:15.866 | INFO     | Alarms:input_trades:40 - RIG 2022-02-01 - 3.5$ Entry point for Up Trend for interval=1d
+2022-02-06 13:05:16.463 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TPH 2022-02-04 - 22.6$ count=15 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:18.092 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TYL 2022-02-04 - 470.8$ count=7 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:18.832 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UDR 2022-02-04 - 57.0$ count=11 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:19.716 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UMBF 2022-02-04 - 103.3$ count=20 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:19.862 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UAA 2022-02-04 - 19.6$ count=3 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:20.307 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UNP 2022-02-04 - 242.4$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:20.901 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - USM 2022-02-04 - 31.1$ count=35 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:21.196 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UTHR 2022-02-04 - 201.6$ count=25 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:21.791 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UHS 2022-02-04 - 129.8$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:21.942 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UNM 2022-02-04 - 27.1$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:21.943 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - UNM 2022-02-04 - 27.1$ count=28 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:22.236 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - URBN 2022-02-04 - 28.6$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:22.682 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - XLU 2022-02-04 - 68.5$ count=24 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:24.157 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - VFH 2022-02-04 - 98.2$ count=5 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:25.341 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - VTR 2022-02-04 - 50.0$ count=20 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:27.705 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - VC 2022-02-04 - 100.4$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:28.741 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - GWW 2022-02-04 - 487.7$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:30.213 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WB 2022-02-04 - 32.8$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:31.104 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WAL 2022-02-04 - 97.9$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:31.693 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WRK 2022-02-04 - 45.4$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:31.987 | INFO     | Alarms:input_trades:54 - WY 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:05:32.434 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WLTW 2022-02-03 - 234.3$ count=12 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:33.019 | INFO     | Alarms:input_trades:54 - WTFC 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:05:33.910 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WRLD 2022-02-04 - 188.1$ count=6 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:34.059 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WWE 2022-02-04 - 51.7$ count=3 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:34.210 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WOR 2022-02-04 - 52.6$ count=28 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:34.358 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WH 2022-02-04 - 84.0$ count=23 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:34.507 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - WYNN 2022-02-04 - 85.5$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:34.657 | INFO     | Alarms:input_trades:54 - XEL 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:05:35.101 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - XLNX 2022-02-04 - 209.0$ count=10 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:37.017 | INFO     | Alarms:input_trades:54 - ZION 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-02-06 13:05:37.165 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ZTS 2022-02-04 - 199.5$ count=4 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:05:37.757 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ZUMZ 2022-02-04 - 43.7$ count=7 - crossing big line Ichimoko cloud for interval=1d
+2022-02-06 13:09:04.536 | INFO     | Alarms:input_trades:40 - Y 2022-02-01 - 687.2$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:09:11.830 | INFO     | Alarms:input_trades:40 - MDRX 2022-01-24 - 20.5$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:10:47.746 | INFO     | Alarms:input_trades:40 - ALV 2022-01-31 - 101.6$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:12:23.971 | INFO     | Alarms:input_trades:40 - CALM 2022-01-31 - 41.3$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:13:17.586 | INFO     | Alarms:input_trades:40 - ZNH 2022-01-31 - 32.4$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:26:17.186 | INFO     | Alarms:input_trades:54 - NRG 2022-02-04 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-02-06 13:26:41.312 | INFO     | Alarms:input_trades:40 - OMC 2022-01-31 - 76.7$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:26:56.833 | INFO     | Alarms:input_trades:40 - PCAR 2022-01-24 - 93.7$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:26:57.469 | INFO     | Alarms:input_trades:40 - PCRX 2022-01-31 - 64.4$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:27:58.635 | INFO     | Alarms:input_trades:40 - PUMP 2022-01-24 - 10.4$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:30:37.573 | INFO     | Alarms:input_trades:40 - SPR 2022-01-31 - 46.9$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:35:18.686 | INFO     | Alarms:input_trades:40 - VRTX 2022-01-24 - 243.0$ Entry point for Up Trend for interval=1wk
+2022-02-06 13:39:55.121 | INFO     | Alarms:input_trades:40 - BDC 2021-12-01 - 65.7$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:40:02.362 | INFO     | Alarms:input_trades:40 - EPAY 2021-12-01 - 56.5$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:40:03.741 | INFO     | Alarms:input_trades:40 - BMY 2021-12-01 - 62.3$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:40:20.029 | INFO     | Alarms:input_trades:40 - CVX 2022-01-01 - 131.3$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:40:59.278 | INFO     | Alarms:input_trades:40 - DD 2021-12-01 - 80.8$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:41:09.871 | INFO     | Alarms:input_trades:40 - EOG 2022-01-01 - 111.5$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:41:17.661 | INFO     | Alarms:input_trades:40 - XOM 2022-02-01 - 81.4$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:41:28.183 | INFO     | Alarms:input_trades:40 - FOX 2022-01-01 - 37.2$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:41:31.134 | INFO     | Alarms:input_trades:40 - GCP 2021-12-01 - 31.7$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:42:17.653 | INFO     | Alarms:input_trades:40 - EUFN 2022-01-01 - 20.8$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:42:32.358 | INFO     | Alarms:input_trades:40 - KIM 2021-12-01 - 24.6$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:42:46.709 | INFO     | Alarms:input_trades:40 - MTB 2022-01-01 - 169.4$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:42:50.269 | INFO     | Alarms:input_trades:40 - MRO 2022-01-01 - 19.5$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:42:50.422 | INFO     | Alarms:input_trades:40 - MPC 2021-12-01 - 64.0$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:43:13.641 | INFO     | Alarms:input_trades:40 - MUR 2022-01-01 - 31.6$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:43:19.199 | INFO     | Alarms:input_trades:40 - NTCT 2021-12-01 - 33.1$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:43:27.563 | INFO     | Alarms:input_trades:40 - NLOK 2021-12-01 - 26.0$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:43:37.595 | INFO     | Alarms:input_trades:40 - PCRX 2021-12-01 - 60.2$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:43:50.674 | INFO     | Alarms:input_trades:40 - PINC 2021-12-01 - 41.2$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:43:59.764 | INFO     | Alarms:input_trades:40 - RL 2022-02-01 - 118.6$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:44:03.295 | INFO     | Alarms:input_trades:40 - REG 2021-12-01 - 75.3$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:44:48.466 | INFO     | Alarms:input_trades:40 - TCBI 2022-02-01 - 67.5$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:44:56.054 | INFO     | Alarms:input_trades:40 - XLE 2022-01-01 - 65.9$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:44:58.350 | INFO     | Alarms:input_trades:40 - GBX 2021-12-01 - 45.9$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:44:58.726 | INFO     | Alarms:input_trades:40 - HAIN 2021-12-01 - 42.6$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:45:33.305 | INFO     | Alarms:input_trades:40 - VREX 2021-12-01 - 31.5$ Entry point for Up Trend for interval=1mo
+2022-02-06 13:45:45.737 | INFO     | Alarms:input_trades:40 - WFC 2022-02-01 - 56.3$ Entry point for Up Trend for interval=1mo
+2022-03-14 22:13:44.807 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CSCO 2022-03-14 - 55.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 22:13:45.541 | INFO     | Alarms:input_trades:40 - AYX 2022-03-09 - 62.8$ Entry point for Up Trend for interval=1d
+2022-03-14 22:13:47.785 | INFO     | Alarms:input_trades:40 - RUB=X 2022-02-21 - 84.9$ Entry point for Up Trend for interval=1wk
+2022-03-14 22:13:57.332 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BZUN 2022-03-14 - 5.7$ length=3 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 22:14:01.355 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PYPL 2022-03-14 - 98.4$ length=12 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 22:14:08.927 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IMOEX.ME 2022-02-21 - 2470.5$ length=38 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 22:14:09.852 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IMOEX.ME 2022-02-01 - 2470.5$ length=4 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 22:14:09.853 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IMOEX.ME 2022-02-01 - 2470.5$ length=6 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 22:14:48.248 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CSCO 2022-03-14 - 55.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 22:14:48.981 | INFO     | Alarms:input_trades:40 - AYX 2022-03-09 - 62.8$ Entry point for Up Trend for interval=1d
+2022-03-14 22:14:53.872 | INFO     | Alarms:input_trades:40 - RUB=X 2022-02-21 - 84.9$ Entry point for Up Trend for interval=1wk
+2022-03-14 22:15:06.056 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BZUN 2022-03-14 - 5.7$ length=3 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 22:15:15.992 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PYPL 2022-03-14 - 98.4$ length=12 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 22:15:36.173 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IMOEX.ME 2022-02-21 - 2470.5$ length=38 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 22:15:38.628 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IMOEX.ME 2022-02-01 - 2470.5$ length=4 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:08:09.228 | INFO     | Alarms:input_trades:40 - AYX 2022-03-09 - 62.8$ Entry point for Up Trend for interval=1d
+2022-03-14 23:08:11.261 | INFO     | Alarms:input_trades:40 - RUB=X 2022-02-21 - 84.9$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:08:20.894 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BZUN 2022-03-14 - 5.8$ length=3 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:08:24.909 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PYPL 2022-03-14 - 98.2$ length=12 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:08:32.633 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IMOEX.ME 2022-02-21 - 2470.5$ length=38 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:08:33.504 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IMOEX.ME 2022-02-01 - 2470.5$ length=4 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:08:33.504 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IMOEX.ME 2022-02-01 - 2470.5$ length=6 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:13:02.194 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ACAD 2022-03-14 - 22.4$ length=18 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:02.474 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ADUS 2022-03-14 - 76.7$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:02.879 | INFO     | Alarms:input_trades:40 - ASIX 2022-03-10 - 45.8$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:03.018 | INFO     | Alarms:input_trades:40 - AERI 2022-03-10 - 9.2$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:03.159 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - AVAV 2022-03-14 - 73.4$ length=31 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:03.637 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - AKAM 2022-03-14 - 108.0$ length=13 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:04.627 | INFO     | Alarms:input_trades:54 - ALSN 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:13:05.185 | INFO     | Alarms:input_trades:40 - AYX 2022-03-09 - 62.8$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:05.324 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - MO 2022-03-14 - 50.4$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:05.393 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ACH 2022-03-14 - 13.2$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:05.396 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ACH 2022-03-14 - 13.2$ length=19 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:05.532 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - AMCX 2022-03-14 - 40.5$ length=8 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:05.876 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - AXP 2022-03-14 - 172.9$ length=25 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:06.017 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - AIG 2022-03-14 - 57.9$ length=35 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:06.080 | INFO     | Alarms:input_trades:40 - APEI 2022-03-10 - 21.6$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:06.085 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - APEI 2022-03-14 - 22.4$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:06.905 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PLAN 2022-03-14 - 44.8$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:07.136 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BUD 2022-03-14 - 57.9$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:07.490 | INFO     | Alarms:input_trades:40 - AON 2022-03-09 - 291.0$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:07.698 | INFO     | Alarms:input_trades:40 - APPF 2022-03-09 - 120.1$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:08.835 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - AJG 2022-03-14 - 154.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:10.017 | INFO     | Alarms:input_trades:40 - AVB 2022-03-09 - 244.5$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:10.441 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - AXSM 2022-03-14 - 30.6$ length=31 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:11.413 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BBBY 2022-03-14 - 19.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:11.415 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BBBY 2022-03-14 - 19.0$ length=28 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:13.761 | INFO     | Alarms:input_trades:40 - AVGO 2022-03-09 - 597.0$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:14.311 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CHRW 2022-03-14 - 98.5$ length=26 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:15.392 | INFO     | Alarms:input_trades:40 - CSL 2022-03-11 - 232.0$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:16.995 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - GTLS 2022-03-14 - 165.5$ length=11 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:17.268 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CHE 2022-03-14 - 479.2$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:17.823 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CB 2022-03-14 - 205.5$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:18.172 | INFO     | Alarms:input_trades:54 - CINF 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:13:18.830 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CME 2022-03-14 - 231.5$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:19.038 | INFO     | Alarms:input_trades:54 - CTSH 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:13:19.558 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CMA 2022-03-14 - 91.0$ length=17 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:19.626 | INFO     | Alarms:input_trades:40 - CBSH 2022-03-09 - 71.0$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:19.700 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CBU 2022-03-14 - 72.4$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:19.844 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CMP 2022-03-14 - 61.5$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:20.129 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - STZ 2022-03-14 - 219.1$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:22.785 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - DLX 2022-03-14 - 31.3$ length=12 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:24.733 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - DORM 2022-03-14 - 97.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:24.869 | INFO     | Alarms:input_trades:54 - DOW 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:13:26.341 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ELAN 2022-03-14 - 25.8$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:26.844 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ECPG 2022-03-14 - 61.3$ length=13 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:27.482 | INFO     | Alarms:input_trades:40 - PLUS 2022-03-09 - 52.1$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:27.997 | INFO     | Alarms:input_trades:40 - ESS 2022-03-09 - 342.4$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:28.136 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - EEFT 2022-03-14 - 117.4$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:28.343 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RE 2022-03-14 - 275.0$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:28.346 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RE 2022-03-14 - 275.0$ length=15 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:28.486 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - EVH 2022-03-14 - 28.7$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:30.096 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - FITB 2022-03-14 - 46.0$ length=33 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:32.947 | INFO     | Alarms:input_trades:40 - GCO 2022-03-10 - 70.5$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:33.442 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - GBT 2022-03-14 - 28.5$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:34.076 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - GHC 2022-03-14 - 591.5$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:34.487 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - GEF 2022-03-14 - 59.9$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:35.670 | INFO     | Alarms:input_trades:54 - HCSG 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:13:35.912 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - HEI 2022-03-14 - 141.7$ length=18 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:36.389 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - HPE 2022-03-14 - 16.3$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:36.464 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - HXL 2022-03-14 - 53.8$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:36.468 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - HXL 2022-03-14 - 53.8$ length=25 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:37.310 | INFO     | Alarms:input_trades:40 - HNP 2022-03-09 - 23.4$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:40.692 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PSCH 2022-03-14 - 154.4$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:41.297 | INFO     | Alarms:input_trades:40 - IRTC 2022-03-09 - 133.3$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:41.303 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IRTC 2022-03-14 - 112.1$ length=15 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:41.443 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IRM 2022-03-14 - 47.6$ length=22 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:42.006 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IXJ 2022-03-14 - 83.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:42.075 | INFO     | Alarms:input_trades:40 - IGF 2022-03-09 - 47.8$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:43.308 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ITA 2022-03-14 - 104.9$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:43.378 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - IYH 2022-03-14 - 274.2$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:43.445 | INFO     | Alarms:input_trades:40 - IHF 2022-03-09 - 275.6$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:43.932 | INFO     | Alarms:input_trades:40 - JBHT 2022-03-09 - 199.4$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:45.430 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - KEY 2022-03-14 - 23.8$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:45.639 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - KIM 2022-03-14 - 23.5$ length=8 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:48.042 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - LTHM 2022-03-14 - 21.6$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:48.535 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - LPLA 2022-03-14 - 162.5$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:50.768 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - MAT 2022-03-14 - 22.4$ length=17 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:52.689 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - MRNA 2022-03-14 - 157.2$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:53.094 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - MDLZ 2022-03-14 - 60.1$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:54.346 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - MYGN 2022-03-14 - 25.5$ length=12 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:54.816 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - NTUS 2022-03-14 - 25.4$ length=32 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:55.021 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - NKTR 2022-03-14 - 4.3$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:55.498 | INFO     | Alarms:input_trades:40 - NTCT 2022-03-11 - 31.5$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:55.504 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - NTCT 2022-03-14 - 30.5$ length=23 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:56.757 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - JWN 2022-03-14 - 23.3$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:57.707 | INFO     | Alarms:input_trades:40 - ORLY 2022-03-09 - 674.7$ Entry point for Up Trend for interval=1d
+2022-03-14 23:13:59.058 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PCAR 2022-03-14 - 86.9$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:13:59.396 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PANW 2022-03-14 - 525.5$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:00.309 | INFO     | Alarms:input_trades:54 - PBCT 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:14:00.515 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PFGC 2022-03-14 - 46.4$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:00.647 | INFO     | Alarms:input_trades:40 - PETQ 2022-03-10 - 22.2$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:00.650 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PETQ 2022-03-14 - 23.1$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:00.720 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PTR 2022-03-14 - 46.7$ length=19 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:01.058 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PSX 2022-03-14 - 78.4$ length=14 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:01.804 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - POWI 2022-03-14 - 85.0$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:02.821 | INFO     | Alarms:input_trades:54 - TTT 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:14:03.230 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PRU 2022-03-14 - 109.9$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:03.233 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PRU 2022-03-14 - 109.9$ length=23 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:03.970 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - QLYS 2022-03-14 - 117.0$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:03.973 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - QLYS 2022-03-14 - 117.0$ length=17 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:04.658 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RJF 2022-03-14 - 99.2$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:04.862 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ROLL 2022-03-14 - 188.0$ length=26 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:05.349 | INFO     | Alarms:input_trades:40 - REGN 2022-03-11 - 642.6$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:05.421 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RGNX 2022-03-14 - 26.7$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:05.491 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RF 2022-03-14 - 22.9$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:05.973 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RMD 2022-03-14 - 239.4$ length=15 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:06.240 | INFO     | Alarms:input_trades:40 - RYTM 2022-03-09 - 10.2$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:06.377 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RHI 2022-03-14 - 110.7$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:06.647 | INFO     | Alarms:input_trades:40 - ROL 2022-03-14 - 33.3$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:07.087 | INFO     | Alarms:input_trades:40 - R 2022-03-09 - 79.6$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:07.430 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SAIL 2022-03-14 - 41.2$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:07.433 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SAIL 2022-03-14 - 41.2$ length=17 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:07.776 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SRPT 2022-03-14 - 75.3$ length=33 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:07.977 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SAIC 2022-03-14 - 87.0$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:08.183 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SEE 2022-03-14 - 66.7$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:08.185 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SEE 2022-03-14 - 66.7$ length=18 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:09.972 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SWBI 2022-03-14 - 16.3$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:10.962 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - XAR 2022-03-14 - 116.8$ length=36 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:11.369 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SPLK 2022-03-14 - 114.5$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:11.708 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SSNC 2022-03-14 - 75.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:12.536 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RGR 2022-03-14 - 72.4$ length=31 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:12.599 | INFO     | Alarms:input_trades:54 - SUPN 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:14:12.602 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SUPN 2022-03-14 - 31.1$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:12.808 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SWCH 2022-03-14 - 26.4$ length=18 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:13.076 | INFO     | Alarms:input_trades:40 - SNX 2022-03-11 - 109.8$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:13.081 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SNX 2022-03-14 - 108.0$ length=18 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:13.231 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SYY 2022-03-14 - 77.6$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:14.973 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - TENB 2022-03-14 - 48.1$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:14.975 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - TENB 2022-03-14 - 48.1$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:15.041 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - TDC 2022-03-14 - 43.2$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:16.018 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BCO 2022-03-14 - 64.7$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:16.086 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SCHW 2022-03-14 - 83.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:17.217 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - XLV 2022-03-14 - 130.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:17.565 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SJM 2022-03-14 - 130.3$ length=10 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:19.403 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BLD 2022-03-14 - 208.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:19.537 | INFO     | Alarms:input_trades:40 - TSCO 2022-03-09 - 224.9$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:20.468 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - TTMI 2022-03-14 - 12.8$ length=22 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:20.879 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - TSN 2022-03-14 - 85.5$ length=14 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:21.290 | INFO     | Alarms:input_trades:40 - ULTA 2022-03-10 - 379.4$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:23.202 | INFO     | Alarms:input_trades:54 - VLO 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1d
+2022-03-14 23:14:23.406 | INFO     | Alarms:input_trades:40 - EVX 2022-03-09 - 144.4$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:23.721 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - VHT 2022-03-14 - 241.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:24.363 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - VNE 2022-03-14 - 35.5$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:25.005 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - VIAC 2022-03-11 - 32.6$ length=19 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:25.967 | INFO     | Alarms:input_trades:40 - WMT 2022-03-10 - 142.6$ Entry point for Up Trend for interval=1d
+2022-03-14 23:14:25.970 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - WMT 2022-03-14 - 144.2$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:25.973 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - WMT 2022-03-14 - 144.2$ length=24 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:26.108 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - WAT 2022-03-14 - 317.5$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:26.589 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - WFC 2022-03-14 - 50.0$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:26.592 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - WFC 2022-03-14 - 50.0$ length=23 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:27.244 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - WRK 2022-03-14 - 45.6$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:28.291 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - WWE 2022-03-14 - 56.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:29.382 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ZEN 2022-03-14 - 110.1$ length=30 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:14:29.657 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ZION 2022-03-14 - 65.6$ length=18 - crossing line Ichimoko cloud for interval=1d
+2022-03-14 23:17:39.471 | INFO     | Alarms:input_trades:40 - ALSN 2022-02-28 - 40.9$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:17:42.644 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ACH 2022-03-14 - 13.1$ length=6 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:17:53.530 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PLAN 2022-03-14 - 44.7$ length=26 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:17:57.835 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - APPF 2022-03-14 - 112.9$ length=6 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:18:28.076 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BLKB 2022-03-14 - 61.9$ length=30 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:18:31.591 | INFO     | Alarms:input_trades:40 - BSX 2022-02-21 - 45.1$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:18:48.138 | INFO     | Alarms:input_trades:40 - CDK 2022-03-07 - 47.8$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:18:59.718 | INFO     | Alarms:input_trades:40 - CI 2022-02-21 - 232.8$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:19:11.513 | INFO     | Alarms:input_trades:40 - CBSH 2022-03-07 - 70.9$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:19:15.710 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - STZ 2022-03-14 - 218.8$ length=7 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:19:17.395 | INFO     | Alarms:input_trades:40 - CORT 2022-03-07 - 24.3$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:19:31.960 | INFO     | Alarms:input_trades:40 - DE 2022-02-28 - 390.1$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:19:32.241 | INFO     | Alarms:input_trades:40 - DK 2022-03-07 - 22.3$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:19:44.808 | INFO     | Alarms:input_trades:40 - DRQ 2022-02-28 - 33.2$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:19:58.810 | INFO     | Alarms:input_trades:54 - ETR 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1wk
+2022-03-14 23:20:11.486 | INFO     | Alarms:input_trades:40 - FICO 2022-02-28 - 497.2$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:20:23.301 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - FOXA 2022-03-14 - 39.1$ length=4 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:20:56.336 | INFO     | Alarms:input_trades:40 - HRL 2022-02-21 - 48.5$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:21:01.954 | INFO     | Alarms:input_trades:40 - HII 2022-02-28 - 218.0$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:21:09.809 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - INSP 2022-03-14 - 201.5$ length=7 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:21:19.932 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - NVTA 2022-03-14 - 6.4$ length=7 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:21:25.001 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - LQD 2022-03-14 - 118.8$ length=7 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:21:26.545 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - EEM 2022-03-14 - 41.8$ length=30 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:21:29.334 | INFO     | Alarms:input_trades:40 - ITA 2022-02-21 - 107.6$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:21:45.228 | INFO     | Alarms:input_trades:40 - KMI 2022-02-28 - 18.8$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:21:52.278 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - LEGH 2022-03-14 - 23.4$ length=5 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:22:02.369 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - LITE 2022-03-14 - 88.6$ length=35 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:22:02.638 | INFO     | Alarms:input_trades:40 - LYB 2022-03-07 - 103.4$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:22:22.880 | INFO     | Alarms:input_trades:40 - MTOR 2022-02-21 - 35.8$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:22:29.731 | INFO     | Alarms:input_trades:40 - TAP 2022-02-21 - 52.9$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:22:46.055 | INFO     | Alarms:input_trades:40 - NJR 2022-02-21 - 43.5$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:22:53.496 | INFO     | Alarms:input_trades:40 - NSC 2022-02-28 - 284.6$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:23:01.530 | INFO     | Alarms:input_trades:40 - OIS 2022-03-07 - 7.4$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:23:08.359 | INFO     | Alarms:input_trades:40 - PCRX 2022-02-21 - 67.1$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:23:11.960 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PYPL 2022-03-14 - 98.1$ length=12 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:23:18.789 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PSX 2022-03-14 - 78.3$ length=7 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:23:18.790 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PSX 2022-03-14 - 78.3$ length=33 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:23:27.610 | INFO     | Alarms:input_trades:40 - TBF 2022-03-07 - 17.4$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:23:28.018 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - UBT 2022-03-14 - 43.5$ length=30 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:23:28.405 | INFO     | Alarms:input_trades:40 - TTT 2022-03-07 - 38.8$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:23:34.561 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - QLYS 2022-03-14 - 117.4$ length=29 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:23:56.779 | INFO     | Alarms:input_trades:40 - SNY 2022-03-14 - 51.0$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:24:37.773 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - TDC 2022-03-14 - 43.2$ length=7 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:24:47.176 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PLCE 2022-03-14 - 52.4$ length=45 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:24:56.883 | INFO     | Alarms:input_trades:40 - HHC 2022-03-07 - 95.4$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:24:58.189 | INFO     | Alarms:input_trades:40 - KHC 2022-02-21 - 39.7$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:25:15.635 | INFO     | Alarms:input_trades:40 - RIG 2022-02-28 - 4.2$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:25:24.236 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RARE 2022-03-14 - 62.9$ length=39 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:25:28.413 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - USM 2022-03-14 - 30.2$ length=40 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:25:31.622 | INFO     | Alarms:input_trades:40 - UNM 2022-03-14 - 27.8$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:25:31.691 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - UPWK 2022-03-14 - 18.5$ length=5 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:25:34.681 | INFO     | Alarms:input_trades:40 - VALE 2022-02-28 - 20.1$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:25:37.044 | INFO     | Alarms:input_trades:40 - GDX 2022-02-28 - 37.4$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:25:39.472 | INFO     | Alarms:input_trades:40 - VTR 2022-03-07 - 58.5$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:25:42.880 | INFO     | Alarms:input_trades:40 - VRTX 2022-02-28 - 238.7$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:26:05.207 | INFO     | Alarms:input_trades:40 - WWD 2022-03-07 - 121.8$ Entry point for Up Trend for interval=1wk
+2022-03-14 23:26:12.320 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ZG 2022-03-14 - 45.8$ length=29 - crossing line Ichimoko cloud for interval=1wk
+2022-03-14 23:28:54.218 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ALSN 2022-03-14 - 39.4$ length=7 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:28:58.733 | INFO     | Alarms:input_trades:40 - APLE 2022-02-01 - 17.7$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:03.811 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - BZUN 2022-03-14 - 5.7$ length=3 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:09.394 | INFO     | Alarms:input_trades:40 - CARG 2022-02-01 - 48.5$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:11.130 | INFO     | Alarms:input_trades:40 - CNP 2022-03-01 - 28.5$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:12.327 | INFO     | Alarms:input_trades:40 - CVX 2022-01-01 - 131.3$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:16.787 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - CAG 2022-03-14 - 32.0$ length=31 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:20.756 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PLAY 2022-03-14 - 38.8$ length=19 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:21.257 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - DK 2022-03-14 - 20.3$ length=5 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:27.807 | INFO     | Alarms:input_trades:40 - EOG 2022-01-01 - 111.5$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:28.133 | INFO     | Alarms:input_trades:40 - EQT 2022-03-01 - 27.0$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:28.135 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - EQT 2022-03-14 - 25.9$ length=47 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:28.821 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - EEFT 2022-03-14 - 117.5$ length=6 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:28.822 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - EEFT 2022-03-14 - 117.5$ length=23 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:30.247 | INFO     | Alarms:input_trades:40 - XOM 2022-03-01 - 84.9$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:33.525 | INFO     | Alarms:input_trades:40 - FOX 2022-01-01 - 37.2$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:36.131 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - GKOS 2022-03-14 - 49.0$ length=5 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:43.313 | INFO     | Alarms:input_trades:40 - ICUI 2022-02-01 - 236.7$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:48.840 | INFO     | Alarms:input_trades:40 - EUFN 2022-01-01 - 20.8$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:48.841 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - EUFN 2022-03-14 - 18.0$ length=5 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:50.967 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - JEF 2022-03-14 - 32.5$ length=42 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:29:53.553 | INFO     | Alarms:input_trades:40 - KRG 2022-03-01 - 22.3$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:55.260 | INFO     | Alarms:input_trades:54 - LDOS 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1mo
+2022-03-14 23:29:57.784 | INFO     | Alarms:input_trades:40 - MTB 2022-01-01 - 169.4$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:29:58.812 | INFO     | Alarms:input_trades:40 - MRO 2022-01-01 - 19.5$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:00.627 | INFO     | Alarms:input_trades:40 - MAT 2022-02-01 - 25.0$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:04.452 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - MDB 2022-03-14 - 295.7$ length=3 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:06.165 | INFO     | Alarms:input_trades:40 - MUR 2022-01-01 - 31.6$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:12.351 | INFO     | Alarms:input_trades:40 - OMC 2022-03-14 - 79.6$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:13.274 | INFO     | Alarms:input_trades:40 - OVV 2022-02-01 - 45.8$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:14.506 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PBF 2022-03-14 - 22.4$ length=5 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:16.042 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PM 2022-03-14 - 90.2$ length=19 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:16.086 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PSX 2022-03-14 - 78.4$ length=5 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:18.173 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PUMP 2022-03-14 - 13.2$ length=11 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:18.496 | INFO     | Alarms:input_trades:54 - EUO 2022-03-14 - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака)for interval=1mo
+2022-03-14 23:30:19.468 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - PHM 2022-03-14 - 44.3$ length=5 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:19.708 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - QTWO 2022-03-14 - 54.5$ length=6 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:20.518 | INFO     | Alarms:input_trades:40 - RL 2022-02-01 - 132.0$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:20.689 | INFO     | Alarms:input_trades:40 - RRC 2022-03-01 - 27.5$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:21.674 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - REG 2022-03-14 - 65.6$ length=7 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:30.219 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - SRC 2022-03-14 - 46.1$ length=34 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:38.215 | INFO     | Alarms:input_trades:40 - XLE 2022-01-01 - 65.9$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:39.022 | INFO     | Alarms:input_trades:40 - GBX 2022-02-01 - 44.4$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:46.579 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - RARE 2022-03-14 - 62.7$ length=5 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:47.573 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - USM 2022-03-14 - 30.2$ length=7 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:48.193 | INFO     | Alarms:input_trades:40 - UHS 2022-02-01 - 143.9$ Entry point for Up Trend for interval=1mo
+2022-03-14 23:30:49.507 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - VNDA 2022-03-14 - 11.1$ length=36 - crossing line Ichimoko cloud for interval=1mo
+2022-03-14 23:30:58.280 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ZG 2022-03-14 - 45.7$ length=4 - crossing line Ichimoko cloud for interval=1mo

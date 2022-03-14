@@ -16,13 +16,6 @@ import re
 import datetime
 # from statistics import mean
 
-# 'MAIL.ME' - нет данных
-start_date = '2001-01-01'
-
-
-# tikers = ['BABA', 'CSCO', 'T', 'KO', 'EBS', 'MOMO', 'GILD', 'INTC', 'PFE', 'TAL', 'VIPS', 'AFLT.ME', 'VTBR.ME',
-#           'GAZP.ME', 'SIBN.ME', 'ENRU.ME', 'ATVI', 'AYX', 'FLOT.ME', 'BYND', 'TATN.ME', 'HHR', 'FXCN.ME']
-# strTikers = ' '.join(tikers)
 
 
 def open_file_and_split(filename):
@@ -31,42 +24,6 @@ def open_file_and_split(filename):
         content = content.replace("'", "").split(sep=', ')
         return content
 
-path = Path('Search.txt')
-tikers = open_file_and_split(path)
-
-data = yf.download(tikers, start=start_date)
-
-# print((data_ichimoko['High']['BABA'].tolist()))
-# % изменения 
-daily_pct_change = data['Adj Close'].pct_change()
-
-# data.columns.tolist()
-
-
-
-# tenkan_sen_value, kijun_sen_value, senkou_spanA_value, senkou_spanB_value, chikou_span
-
-# daily_pct_change.index.date[1] == datetime.date(2001, 1, 3)
-
-# daily_pct_change.loc[(daily_pct_change.index.date == datetime.date(2021, 11, 1)) & (daily_pct_change['BABA'] > 0)]['BABA']
-
-# print(data['Close'].BABA.tail())
-# print(daily_pct_change.BABA.tail())
-
-# add num_of_week 
-# daily_pct_change['dayofweek'] = data['Adj Close'].index.dayofweek
-
-# TEST
-# c = daily_pct_change[['AFLT.ME', 'dayofweek']].values
-# print(daily_pct_change.BYND)
-# print(c.shape)
-# print(daily_pct_change[['AFLT.ME', 'dayofweek']])
-
-# добавление в столбец положительного % окончания дня торгов
-# for tiker in tikers:
-#   daily_pct_change[f'{tiker} p'] = daily_pct_change[tiker].copy()
-#   daily_pct_change.loc[(daily_pct_change[f'{tiker} p']) > 0, f'{tiker} p'] = 1
-#   daily_pct_change.loc[(daily_pct_change[f'{tiker} p']) < 0, f'{tiker} p'] = 0
 
 # Выбор кол-ва п\н дней по указаному дню  
 def day_chance(day: int, month: int, tikers: list):
@@ -90,31 +47,27 @@ def day_chance(day: int, month: int, tikers: list):
     return day_chance_dict
 
 
-day_chance(29, 11, ['MOMO'])
-# pd.DataFrame(day_chance(16, 11, ['BABA', 'INTC']))
+def chance_count_day():
+    data_for_df = dict()
+    for tiker in tikers:
+        # выбор данных по дням недели
+        chance_dayList, pdayList, ndayList = [], [], []
+        for i in range(5):
+            count_pday = len(daily_pct_change.loc[
+                                 (daily_pct_change[tiker].index.dayofweek == i) & (daily_pct_change[tiker] > 0) & (
+                                             daily_pct_change[tiker].index.year == 2021)])
+            count_nday = len(daily_pct_change.loc[
+                                 (daily_pct_change[tiker].index.dayofweek == i) & (daily_pct_change[tiker] < 0) & (
+                                             daily_pct_change[tiker].index.year == 2021)])
+            chance_day = count_pday / (count_pday + count_nday)
+            chance_dayList.append(chance_day)
+            pdayList.append(count_pday)
+            ndayList.append(count_nday)
 
-data_for_df = dict()
-for tiker in tikers:
-    # выбор данных по дням недели
-    chance_dayList, pdayList, ndayList = [], [], []
-    for i in range(5):
-        count_pday = len(daily_pct_change.loc[
-                             (daily_pct_change.index.dayofweek == i) & (daily_pct_change[tiker] > 0) & (
-                                         daily_pct_change.index.year == 2021)])
-        count_nday = len(daily_pct_change.loc[
-                             (daily_pct_change.index.dayofweek == i) & (daily_pct_change[tiker] < 0) & (
-                                         daily_pct_change.index.year == 2021)])
-        chance_day = count_pday / (count_pday + count_nday)
-        chance_dayList.append(chance_day)
-        pdayList.append(count_pday)
-        ndayList.append(count_nday)
-
-    data_for_df[f'{tiker} chance'] = chance_dayList
-    data_for_df[f'{tiker} count_pday'] = pdayList
-    data_for_df[f'{tiker} count_nday'] = ndayList
-# print(data_for_df)
-df_chance_count_day = pd.DataFrame(data_for_df, index=range(5))
-# print(df_chance_count_day)
+        data_for_df[f'{tiker} chance'] = chance_dayList
+        data_for_df[f'{tiker} count_pday'] = pdayList
+        data_for_df[f'{tiker} count_nday'] = ndayList
+    return data_for_df
 
 # выбор данных по месяцам
 # for month in range(1, 13):
@@ -131,10 +84,6 @@ df_chance_count_day = pd.DataFrame(data_for_df, index=range(5))
 #   print(chance_month, count_pmonth, count_nmonth)
 # print('-----------')
 
-
-# Вывод только % по дням для каждого тикера
-a = [x for x in df_chance_count_day.columns if re.search(' chance', x)]
-# df_chance_count_day[a]
 
 
 # Выбор данных по месяцам
@@ -186,31 +135,19 @@ def chance_count_month(tikers, start_date):
     # df_chance_month = df_chance_month.transpose()
 
 
-# Вывод всех данных
-df_chance_count_month = pd.DataFrame(chance_count_month(tikers, start_date), index=range(1, 13))
-# df_chance_count_month
-
-# Вывод всех показателей по заданному тикеру
-tiker = 'MOMO'
-a = [x for x in df_chance_count_month.columns if re.search(tiker, x)]
-# df_chance_count_month[a]
-
-# Вывод толко % по месяцам для каждого тикера
-a = [x for x in df_chance_count_month.columns if re.search(' chance', x)]
-# df_chance_count_month[a]
 
 
 def recommendationLast(tiker):
     return yf.Ticker(tiker).recommendations.tail(1)
 
-
-for tiker in tikers:
-    try:
-        pass
-        # print(tiker, '\n', recommendationLast(tiker))
-    except Exception:
-        # pass
-        print(tiker, '\n')
+#
+# for tiker in tikers:
+#     try:
+#         pass
+#         # print(tiker, '\n', recommendationLast(tiker))
+#     except Exception:
+#         # pass
+#         print(tiker, '\n')
 
 # Скорректированая цена закрытия`
 # daily_close = sber[['Adj Close']]
@@ -290,6 +227,42 @@ def other(daily_pct_change = 0):
 
     plt.show()
 
+def get_pct_chance_months_tiker(tiker):
+    start_date = '2001-01-01'
+    path = Path('Search.txt')
+    tikers = open_file_and_split(path)
+    # Вывод всех данных
+    df_chance_count_month = pd.DataFrame(chance_count_month(tikers, start_date), index=range(1, 13))
+    a = [x for x in df_chance_count_month.columns if re.search(tiker, x)]
+    pd.set_option('display.max_columns', 7)
+    return df_chance_count_month[a]
+
 if __name__ == '__main__':
-   pass
+
+
+    # data = yf.download(tikers, start=start_date)
+
+    # % изменения
+    # daily_pct_change = data['Adj Close'].pct_change()
+
+    # day_chance(29, 11, ['MOMO'])
+    # pd.DataFrame(day_chance(16, 11, ['BABA', 'INTC']))
+
+
+
+    # print(data_for_df)
+    # df_chance_count_day = pd.DataFrame(chance_count_day, index=range(5))
+    # print(df_chance_count_day)
+
+    # Вывод только % по дням для каждого тикера
+    # a = [x for x in df_chance_count_day.columns if re.search(' chance', x)]
+    # df_chance_count_day[a]
+
+    # Вывод всех показателей по заданному тикеру
+    tiker = 'BABA'
+    print(get_pct_chance_months_tiker(tiker))
+
+    # Вывод толко % по месяцам для каждого тикера
+    # a = [x for x in df_chance_count_month.columns if re.search(' chance', x)]
+    # df_chance_count_month[a]
 
