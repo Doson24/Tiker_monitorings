@@ -162,7 +162,7 @@ if __name__ == '__main__':
             # text1d = [i['text'] for i in result_1d]
             # print(f'trends in {file}')
             # result_1w = file_tiker(file, list_periods[i], list_interval[i])
-    time.sleep(seconds)
+    time.sleep(int(s))
     print(list(templates.keys()))
     while True:
         monitoring(templates)
