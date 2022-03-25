@@ -240,7 +240,7 @@ if __name__ == '__main__':
     path = Path('Search.txt')
     tikers = open_file_and_split(path)
 
-    tiker = 'BABA'
+    tiker = 'MOMO'
     print(get_pct_chance_months_tiker(tiker))
     print(recommendationLast(tiker))
     # data = yf.download(tikers, start=start_date)
