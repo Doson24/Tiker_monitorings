@@ -920,3 +920,392 @@
 2022-03-14 23:30:48.193 | INFO     | Alarms:input_trades:40 - UHS 2022-02-01 - 143.9$ Entry point for Up Trend for interval=1mo
 2022-03-14 23:30:49.507 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - VNDA 2022-03-14 - 11.1$ length=36 - crossing line Ichimoko cloud for interval=1mo
 2022-03-14 23:30:58.280 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:142 - ZG 2022-03-14 - 45.7$ length=4 - crossing line Ichimoko cloud for interval=1mo
+2022-03-25 15:42:41.178 | INFO     | Alarms:input_trades:40 - INTC 2022-03-24 - 51.6$ Entry point for Up Trend for interval=1d
+2022-03-25 15:42:41.179 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - INTC 2022-03-24 - 51.6$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 15:42:41.180 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - INTC 2022-03-24 - 51.6$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 15:42:41.362 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AFLT.ME 2022-03-25 - 26.4$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 15:42:41.594 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AYX 2022-03-24 - 71.6$ length=11 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:04:46.890 | INFO     | Alarms:input_trades:40 - INTC 2022-03-24 - 51.6$ Entry point for Up Trend for interval=1d
+2022-03-25 16:04:46.891 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - INTC 2022-03-24 - 51.6$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:04:46.891 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - INTC 2022-03-24 - 51.6$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:04:47.077 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AFLT.ME 2022-03-25 - 26.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:04:47.311 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AYX 2022-03-24 - 71.6$ length=11 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:04:56.883 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BIDU 2022-03-24 - 150.6$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:04:56.927 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AMD 2022-03-24 - 120.5$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:03.176 | INFO     | Alarms:input_trades:40 - ES=F 2022-03-24 - 4512.5$ Entry point for Up Trend for interval=1d
+2022-03-25 16:05:03.177 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ES=F 2022-03-25 - 4508.2$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:13.028 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ETLN.ME 2022-02-25 - 45.2$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:13.809 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AKRN.ME 2022-02-25 - 12854.0$ length=13 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:14.045 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AMEZ.ME 2022-02-25 - 19.0$ length=16 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:14.094 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AFLT.ME 2022-03-25 - 26.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:14.274 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BANEP.ME 2022-02-25 - 490.0$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:15.196 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - GTRK.ME 2022-02-25 - 17.5$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:15.616 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - IGST.ME 2022-02-25 - 2600.0$ length=17 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:15.710 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - INGR.ME 2022-02-25 - 1485.0$ length=13 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:15.749 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - IRAO.ME 2022-02-25 - 2.8$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:16.495 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KTSBP.ME 2022-02-25 - 0.2$ length=12 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:17.510 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MFGS.ME 2022-02-25 - 270.0$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:17.605 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MTLR.ME 2022-02-25 - 68.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:17.653 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MTLRP.ME 2022-02-25 - 153.0$ length=19 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:17.970 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MRKZ.ME 2022-02-25 - 0.0$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:18.164 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MRKV.ME 2022-02-25 - 0.0$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:18.490 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NKNCP.ME 2022-02-25 - 61.3$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:18.805 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - OMZZP.ME 2022-02-25 - 3895.0$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:18.899 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KZOSP.ME 2022-02-25 - 14.3$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:19.178 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PRMB.ME 2022-02-25 - 32200.0$ length=8 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:19.179 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PRMB.ME 2022-02-25 - 32200.0$ length=23 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:19.226 | INFO     | Alarms:input_trades:40 - RASP.ME 2022-02-22 - 481.3$ Entry point for Up Trend for interval=1d
+2022-03-25 16:05:19.227 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - RASP.ME 2022-02-25 - 266.3$ length=29 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:19.415 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - CHGZ.ME 2022-02-25 - 34.8$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:20.835 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MGNZ.ME 2022-02-25 - 11900.0$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:20.836 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MGNZ.ME 2022-02-25 - 11900.0$ length=30 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:21.249 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TATNP.ME 2022-02-25 - 332.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:22.027 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NNSBP.ME 2022-02-25 - 394.0$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:22.552 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PHOR.ME 2022-03-25 - 6865.0$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:22.552 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PHOR.ME 2022-03-25 - 6865.0$ length=13 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:05:22.599 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - FEES.ME 2022-03-25 - 0.1$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:09:53.695 | ERROR    | __main__:monitoring:39 - An error has been caught in function 'monitoring', process 'MainProcess' (37064), thread 'MainThread' (19384):
+Traceback (most recent call last):
+
+  File "C:\Users\user\Desktop\Projects\Tiker\One_tiker_monitoring.py", line 155, in <module>
+    monitoring(templates)
+    |          -> {'RUB=X': 0, 'AAPL': 0, 'BABA': 0, 'CSCO': 0, 'T': 0, 'KO': 0, 'EBS': 0, 'MOMO': 0, 'INTC': 0, 'PFE': 0, 'TAL': 0, 'VIPS': 0,...
+    -> <function monitoring at 0x0000016DCB4E2310>
+
+> File "C:\Users\user\Desktop\Projects\Tiker\One_tiker_monitoring.py", line 39, in monitoring
+    senkou_spanA_value = senkou_spanA(tenkan_sen_value, kijun_sen_value, 26)
+                         |            |                 -> Series([], dtype: float64)
+                         |            -> Series([], dtype: float64)
+                         -> <function senkou_spanA at 0x0000016DCB4DE280>
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 102, in senkou_spanA
+    index = [tenkan_sen.index[0] + datetime.timedelta(days=indx+1) for indx in range(m)]
+             |          |          |        |                                        -> 26
+             |          |          |        -> <class 'datetime.timedelta'>
+             |          |          -> <module 'datetime' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+             |          -> <pandas._libs.properties.AxisProperty object at 0x0000016DC8ECB730>
+             -> Series([], dtype: float64)
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 102, in <listcomp>
+    index = [tenkan_sen.index[0] + datetime.timedelta(days=indx+1) for indx in range(m)]
+             |          |          |        |              |           -> 0
+             |          |          |        |              -> 0
+             |          |          |        -> <class 'datetime.timedelta'>
+             |          |          -> <module 'datetime' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+             |          -> <pandas._libs.properties.AxisProperty object at 0x0000016DC8ECB730>
+             -> Series([], dtype: float64)
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexes\base.py", line 4604, in __getitem__
+    return getitem(key)
+           |       -> 0
+           -> <method-wrapper '__getitem__' of numpy.ndarray object at 0x0000016DCB6B4D50>
+
+IndexError: index 0 is out of bounds for axis 0 with size 0
+2022-03-25 16:16:34.559 | INFO     | Alarms:input_trades:40 - INTC 2022-03-24 - 51.6$ Entry point for Up Trend for interval=1d
+2022-03-25 16:16:34.560 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - INTC 2022-03-24 - 51.6$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:16:34.560 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - INTC 2022-03-24 - 51.6$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:16:34.744 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AFLT.ME 2022-03-25 - 26.7$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:16:34.970 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AYX 2022-03-24 - 71.6$ length=11 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:16:35.107 | ERROR    | Alarms:file_tiker:152 - An error has been caught in function 'file_tiker', process 'MainProcess' (24856), thread 'MainThread' (2080):
+Traceback (most recent call last):
+
+  File "C:\Users\user\Desktop\Projects\Tiker\One_tiker_monitoring.py", line 159, in <module>
+    result_1d = file_tiker(file, list_periods[i], list_interval[i])
+                |          |     |            |   |             -> 0
+                |          |     |            |   -> ['1d', '1wk', '1mo']
+                |          |     |            -> 0
+                |          |     -> ['6mo', 'max', 'max']
+                |          -> 'Portfolio.txt'
+                -> <function file_tiker at 0x00000206C51C1040>
+
+> File "C:\Users\user\Desktop\Projects\Tiker\Alarms.py", line 152, in file_tiker
+    senkou_spanA_value = senkou_spanA(tenkan_sen_value, kijun_sen_value, 26)
+                         |            |                 -> Series([], Freq: -1B, dtype: float64)
+                         |            -> Series([], Freq: -1B, dtype: float64)
+                         -> <function senkou_spanA at 0x00000206C51BE280>
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 102, in senkou_spanA
+    index = [tenkan_sen.index[0] + datetime.timedelta(days=indx+1) for indx in range(m)]
+             |          |          |        |                                        -> 26
+             |          |          |        -> <class 'datetime.timedelta'>
+             |          |          -> <module 'datetime' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+             |          -> <pandas._libs.properties.AxisProperty object at 0x00000206C2BAA700>
+             -> Series([], Freq: -1B, dtype: float64)
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 102, in <listcomp>
+    index = [tenkan_sen.index[0] + datetime.timedelta(days=indx+1) for indx in range(m)]
+             |          |          |        |              |           -> 0
+             |          |          |        |              -> 0
+             |          |          |        -> <class 'datetime.timedelta'>
+             |          |          -> <module 'datetime' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+             |          -> <pandas._libs.properties.AxisProperty object at 0x00000206C2BAA700>
+             -> Series([], Freq: -1B, dtype: float64)
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexes\extension.py", line 279, in __getitem__
+    result = self._data[key]
+             |    |     -> 0
+             |    -> <DatetimeArray>
+             |       []
+             |       Length: 0, dtype: datetime64[ns]
+             -> DatetimeIndex([], dtype='datetime64[ns]', name='Date', freq='-1B')
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\arrays\datetimelike.py", line 322, in __getitem__
+    result = super().__getitem__(key)
+                                 -> 0
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\arrays\_mixins.py", line 194, in __getitem__
+    result = self._ndarray[key]
+             |    |        -> 0
+             |    -> <attribute '_ndarray' of 'pandas._libs.arrays.NDArrayBacked' objects>
+             -> <DatetimeArray>
+                []
+                Length: 0, dtype: datetime64[ns]
+
+IndexError: index 0 is out of bounds for axis 0 with size 0
+2022-03-25 16:16:43.367 | ERROR    | Alarms:file_tiker:152 - An error has been caught in function 'file_tiker', process 'MainProcess' (24856), thread 'MainThread' (2080):
+Traceback (most recent call last):
+
+  File "C:\Users\user\Desktop\Projects\Tiker\One_tiker_monitoring.py", line 159, in <module>
+    result_1d = file_tiker(file, list_periods[i], list_interval[i])
+                |          |     |            |   |             -> 1
+                |          |     |            |   -> ['1d', '1wk', '1mo']
+                |          |     |            -> 1
+                |          |     -> ['6mo', 'max', 'max']
+                |          -> 'Portfolio.txt'
+                -> <function file_tiker at 0x00000206C51C1040>
+
+> File "C:\Users\user\Desktop\Projects\Tiker\Alarms.py", line 152, in file_tiker
+    senkou_spanA_value = senkou_spanA(tenkan_sen_value, kijun_sen_value, 26)
+                         |            |                 -> Series([], dtype: float64)
+                         |            -> Series([], dtype: float64)
+                         -> <function senkou_spanA at 0x00000206C51BE280>
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 102, in senkou_spanA
+    index = [tenkan_sen.index[0] + datetime.timedelta(days=indx+1) for indx in range(m)]
+             |          |          |        |                                        -> 26
+             |          |          |        -> <class 'datetime.timedelta'>
+             |          |          -> <module 'datetime' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+             |          -> <pandas._libs.properties.AxisProperty object at 0x00000206C2BAA700>
+             -> Series([], dtype: float64)
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 102, in <listcomp>
+    index = [tenkan_sen.index[0] + datetime.timedelta(days=indx+1) for indx in range(m)]
+             |          |          |        |              |           -> 0
+             |          |          |        |              -> 0
+             |          |          |        -> <class 'datetime.timedelta'>
+             |          |          -> <module 'datetime' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+             |          -> <pandas._libs.properties.AxisProperty object at 0x00000206C2BAA700>
+             -> Series([], dtype: float64)
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\indexes\extension.py", line 279, in __getitem__
+    result = self._data[key]
+             |    |     -> 0
+             |    -> <DatetimeArray>
+             |       []
+             |       Length: 0, dtype: datetime64[ns]
+             -> DatetimeIndex([], dtype='datetime64[ns]', name='Date', freq=None)
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\arrays\datetimelike.py", line 322, in __getitem__
+    result = super().__getitem__(key)
+                                 -> 0
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\arrays\_mixins.py", line 194, in __getitem__
+    result = self._ndarray[key]
+             |    |        -> 0
+             |    -> <attribute '_ndarray' of 'pandas._libs.arrays.NDArrayBacked' objects>
+             -> <DatetimeArray>
+                []
+                Length: 0, dtype: datetime64[ns]
+
+IndexError: index 0 is out of bounds for axis 0 with size 0
+2022-03-25 16:16:44.746 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - BIDU 2022-03-24 - 150.6$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:16:44.791 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AMD 2022-03-24 - 120.5$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:16:50.922 | INFO     | Alarms:input_trades:40 - ES=F 2022-03-24 - 4512.5$ Entry point for Up Trend for interval=1d
+2022-03-25 16:16:50.923 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - ES=F 2022-03-25 - 4505.0$ length=21 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:06.628 | ERROR    | Alarms:file_tiker:152 - An error has been caught in function 'file_tiker', process 'MainProcess' (24856), thread 'MainThread' (2080):
+Traceback (most recent call last):
+
+  File "C:\Users\user\Desktop\Projects\Tiker\One_tiker_monitoring.py", line 159, in <module>
+    result_1d = file_tiker(file, list_periods[i], list_interval[i])
+                |          |     |            |   |             -> 0
+                |          |     |            |   -> ['1d', '1wk', '1mo']
+                |          |     |            -> 0
+                |          |     -> ['6mo', 'max', 'max']
+                |          -> 'ALL_Moex.txt'
+                -> <function file_tiker at 0x00000206C51C1040>
+
+> File "C:\Users\user\Desktop\Projects\Tiker\Alarms.py", line 152, in file_tiker
+    senkou_spanA_value = senkou_spanA(tenkan_sen_value, kijun_sen_value, 26)
+                         |            |                 -> Date
+                         |            |                    2022-02-25    9.405
+                         |            |                    Freq: -1B, dtype: float64
+                         |            -> Date
+                         |               2022-02-25    9.405
+                         |               Freq: -1B, dtype: float64
+                         -> <function senkou_spanA at 0x00000206C51BE280>
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 104, in senkou_spanA
+    s = pd.Series(a[::-1], index=index)
+        |  |      |              -> [Timestamp('2022-02-26 00:00:00', freq='-1B'), Timestamp('2022-02-27 00:00:00', freq='-1B'), Timestamp('2022-02-28 00:00:00',...
+        |  |      -> [9.404999732971191]
+        |  -> <class 'pandas.core.series.Series'>
+        -> <module 'pandas' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\__init__.py'>
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\series.py", line 430, in __init__
+    com.require_length_match(data, index)
+    |   |                    |     -> DatetimeIndex(['2022-02-26', '2022-02-27', '2022-02-28', '2022-03-01',
+    |   |                    |                       '2022-03-02', '2022-03-03', '2022-03-04...
+    |   |                    -> [9.404999732971191]
+    |   -> <function require_length_match at 0x00000206C1CF0D30>
+    -> <module 'pandas.core.common' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\c...
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\common.py", line 531, in require_length_match
+    raise ValueError(
+
+ValueError: Length of values (1) does not match length of index (26)
+2022-03-25 16:17:06.982 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AKRN.ME 2022-02-25 - 12854.0$ length=13 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:07.197 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AMEZ.ME 2022-02-25 - 19.0$ length=14 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:07.243 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - AFLT.ME 2022-03-25 - 26.8$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:08.245 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - GTRK.ME 2022-02-25 - 17.5$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:08.641 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - IGST.ME 2022-02-25 - 2600.0$ length=17 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:08.720 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - INGR.ME 2022-02-25 - 1485.0$ length=13 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:09.024 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KCHEP.ME 2022-02-25 - 0.2$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:09.448 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KTSBP.ME 2022-02-25 - 0.2$ length=12 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:10.471 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MTLR.ME 2022-02-25 - 68.0$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:10.518 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MTLRP.ME 2022-02-25 - 153.0$ length=19 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:10.799 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MRKZ.ME 2022-02-25 - 0.0$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:11.276 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NKNCP.ME 2022-02-25 - 61.3$ length=6 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:11.642 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - KZOSP.ME 2022-02-25 - 14.3$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:11.899 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PRMB.ME 2022-02-25 - 32200.0$ length=8 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:11.900 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - PRMB.ME 2022-02-25 - 32200.0$ length=23 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:11.938 | INFO     | Alarms:input_trades:40 - RASP.ME 2022-02-22 - 481.3$ Entry point for Up Trend for interval=1d
+2022-03-25 16:17:11.939 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - RASP.ME 2022-02-25 - 266.3$ length=5 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:11.939 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - RASP.ME 2022-02-25 - 266.3$ length=19 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:12.359 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MRKK.ME 2022-02-25 - 16.1$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:13.035 | ERROR    | Alarms:file_tiker:152 - An error has been caught in function 'file_tiker', process 'MainProcess' (24856), thread 'MainThread' (2080):
+Traceback (most recent call last):
+
+  File "C:\Users\user\Desktop\Projects\Tiker\One_tiker_monitoring.py", line 159, in <module>
+    result_1d = file_tiker(file, list_periods[i], list_interval[i])
+                |          |     |            |   |             -> 0
+                |          |     |            |   -> ['1d', '1wk', '1mo']
+                |          |     |            -> 0
+                |          |     -> ['6mo', 'max', 'max']
+                |          -> 'ALL_Moex.txt'
+                -> <function file_tiker at 0x00000206C51C1040>
+
+> File "C:\Users\user\Desktop\Projects\Tiker\Alarms.py", line 152, in file_tiker
+    senkou_spanA_value = senkou_spanA(tenkan_sen_value, kijun_sen_value, 26)
+                         |            |                 -> Date
+                         |            |                    2022-02-25    2.795
+                         |            |                    Freq: -1B, dtype: float64
+                         |            -> Date
+                         |               2022-02-25    2.795
+                         |               Freq: -1B, dtype: float64
+                         -> <function senkou_spanA at 0x00000206C51BE280>
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 104, in senkou_spanA
+    s = pd.Series(a[::-1], index=index)
+        |  |      |              -> [Timestamp('2022-02-26 00:00:00', freq='-1B'), Timestamp('2022-02-27 00:00:00', freq='-1B'), Timestamp('2022-02-28 00:00:00',...
+        |  |      -> [2.7950000762939453]
+        |  -> <class 'pandas.core.series.Series'>
+        -> <module 'pandas' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\__init__.py'>
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\series.py", line 430, in __init__
+    com.require_length_match(data, index)
+    |   |                    |     -> DatetimeIndex(['2022-02-26', '2022-02-27', '2022-02-28', '2022-03-01',
+    |   |                    |                       '2022-03-02', '2022-03-03', '2022-03-04...
+    |   |                    -> [2.7950000762939453]
+    |   -> <function require_length_match at 0x00000206C1CF0D30>
+    -> <module 'pandas.core.common' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\c...
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\common.py", line 531, in require_length_match
+    raise ValueError(
+
+ValueError: Length of values (1) does not match length of index (26)
+2022-03-25 16:17:13.404 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MGNZ.ME 2022-02-25 - 11900.0$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:13.405 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - MGNZ.ME 2022-02-25 - 11900.0$ length=10 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:13.774 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - TATNP.ME 2022-02-25 - 332.0$ length=4 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:14.519 | WARNING  | Alarms:crossing_bigLine_ichimoko_cloud:128 - NNSBP.ME 2022-02-25 - 394.0$ length=7 - crossing line Ichimoko cloud for interval=1d
+2022-03-25 16:17:38.934 | ERROR    | Alarms:file_tiker:152 - An error has been caught in function 'file_tiker', process 'MainProcess' (24856), thread 'MainThread' (2080):
+Traceback (most recent call last):
+
+  File "C:\Users\user\Desktop\Projects\Tiker\One_tiker_monitoring.py", line 159, in <module>
+    result_1d = file_tiker(file, list_periods[i], list_interval[i])
+                |          |     |            |   |             -> 1
+                |          |     |            |   -> ['1d', '1wk', '1mo']
+                |          |     |            -> 1
+                |          |     -> ['6mo', 'max', 'max']
+                |          -> 'ALL_Moex.txt'
+                -> <function file_tiker at 0x00000206C51C1040>
+
+> File "C:\Users\user\Desktop\Projects\Tiker\Alarms.py", line 152, in file_tiker
+    senkou_spanA_value = senkou_spanA(tenkan_sen_value, kijun_sen_value, 26)
+                         |            |                 -> Date
+                         |            |                    2022-02-25    9.405
+                         |            |                    dtype: float64
+                         |            -> Date
+                         |               2022-02-25    9.405
+                         |               dtype: float64
+                         -> <function senkou_spanA at 0x00000206C51BE280>
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 104, in senkou_spanA
+    s = pd.Series(a[::-1], index=index)
+        |  |      |              -> [Timestamp('2022-02-26 00:00:00'), Timestamp('2022-02-27 00:00:00'), Timestamp('2022-02-28 00:00:00'), Timestamp('2022-03-01 ...
+        |  |      -> [9.404999732971191]
+        |  -> <class 'pandas.core.series.Series'>
+        -> <module 'pandas' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\__init__.py'>
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\series.py", line 430, in __init__
+    com.require_length_match(data, index)
+    |   |                    |     -> DatetimeIndex(['2022-02-26', '2022-02-27', '2022-02-28', '2022-03-01',
+    |   |                    |                       '2022-03-02', '2022-03-03', '2022-03-04...
+    |   |                    -> [9.404999732971191]
+    |   -> <function require_length_match at 0x00000206C1CF0D30>
+    -> <module 'pandas.core.common' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\c...
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\common.py", line 531, in require_length_match
+    raise ValueError(
+
+ValueError: Length of values (1) does not match length of index (26)
+2022-03-25 16:18:06.769 | ERROR    | Alarms:file_tiker:152 - An error has been caught in function 'file_tiker', process 'MainProcess' (24856), thread 'MainThread' (2080):
+Traceback (most recent call last):
+
+  File "C:\Users\user\Desktop\Projects\Tiker\One_tiker_monitoring.py", line 159, in <module>
+    result_1d = file_tiker(file, list_periods[i], list_interval[i])
+                |          |     |            |   |             -> 1
+                |          |     |            |   -> ['1d', '1wk', '1mo']
+                |          |     |            -> 1
+                |          |     -> ['6mo', 'max', 'max']
+                |          -> 'ALL_Moex.txt'
+                -> <function file_tiker at 0x00000206C51C1040>
+
+> File "C:\Users\user\Desktop\Projects\Tiker\Alarms.py", line 152, in file_tiker
+    senkou_spanA_value = senkou_spanA(tenkan_sen_value, kijun_sen_value, 26)
+                         |            |                 -> Date
+                         |            |                    2022-02-25    2.795
+                         |            |                    dtype: float64
+                         |            -> Date
+                         |               2022-02-25    2.795
+                         |               dtype: float64
+                         -> <function senkou_spanA at 0x00000206C51BE280>
+
+  File "C:\Users\user\Desktop\Projects\Tiker\ichimoku.py", line 104, in senkou_spanA
+    s = pd.Series(a[::-1], index=index)
+        |  |      |              -> [Timestamp('2022-02-26 00:00:00'), Timestamp('2022-02-27 00:00:00'), Timestamp('2022-02-28 00:00:00'), Timestamp('2022-03-01 ...
+        |  |      -> [2.7950000762939453]
+        |  -> <class 'pandas.core.series.Series'>
+        -> <module 'pandas' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\__init__.py'>
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\series.py", line 430, in __init__
+    com.require_length_match(data, index)
+    |   |                    |     -> DatetimeIndex(['2022-02-26', '2022-02-27', '2022-02-28', '2022-03-01',
+    |   |                    |                       '2022-03-02', '2022-03-03', '2022-03-04...
+    |   |                    -> [2.7950000762939453]
+    |   -> <function require_length_match at 0x00000206C1CF0D30>
+    -> <module 'pandas.core.common' from 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\pandas\\c...
+
+  File "C:\Users\user\AppData\Local\Programs\Python\Python39\lib\site-packages\pandas\core\common.py", line 531, in require_length_match
+    raise ValueError(
+
+ValueError: Length of values (1) does not match length of index (26)
