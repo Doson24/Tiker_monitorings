@@ -113,7 +113,7 @@ def monitoring(templates, interval='1h'):
                 f'{tiker} {cost.index[-1].date()} {cost.index[-1].tz_convert("Asia/Krasnoyarsk").strftime("%H:%M:%S")}'
                 f' - Возможная точка ПОДБОРА в UP trend (c>p, c[-1] < p [-1], выше облака')
             sound()
-    print('_' * 70, "\nТекущие тренды \n")
+    print('_' * 70, f"\nТекущие тренды {interval}\n")
 
     """
     Для текущего состояния тикеров
@@ -155,7 +155,7 @@ if __name__ == '__main__':
     monitoring(templates)
     for file in files:
         for i in range(0, len(list_interval)-1):
-            print(f'trends in {file}')
+            print(f'trends in {file} {list_interval[i]}')
             result_1d = file_tiker(file, list_periods[i], list_interval[i])
             # name1d = [i['name'] for i in result_1d]
             # date_time1d = [i['date_time'] for i in result_1d]
