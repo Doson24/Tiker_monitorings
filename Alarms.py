@@ -11,7 +11,7 @@ import sys
 from loguru import logger
 from collections import Counter
 logger.remove()
-logger.add(sys.stderr, format="{time} {level} {message}")
+logger.add(sys.stderr, format="{time:HH:mm:ss} {level} {message}")
 logger.add("logger.log")
 
 def sound():
@@ -21,9 +21,11 @@ def sound():
     time.sleep(1)
 
 
+"""Разница в процентах"""
+def percentage_diff(a, b):
+    return float("{0:.2f}".format(((a / b) - 1) * 100))
+
 """ Точки входа """
-
-
 def input_trades(data_ichimoko, tenkan_sen_value, kijun_sen_value, senkou_spanA_value, senkou_spanB_value,
                  chikou_span_value, tiker, n, interval):
     # точки входа за последние n дней
@@ -37,8 +39,9 @@ def input_trades(data_ichimoko, tenkan_sen_value, kijun_sen_value, senkou_spanA_
                 (cost[-(i + 1)] <= senkou_spanA_value[i + lag] or cost[-(i + 1)] <= senkou_spanB_value[i + lag]) and \
                 (chikou_span_value[-i] > cost_open[-(i + lag)]) and (chikou_span_value[-i] > cost[-(i + lag)]):
 
-            logger.info(f'{tiker} {cost.index[-i].date()} - '
-                            f'{float("{0:.1f}".format(cost[-i]))}$ Entry point for Up Trend for interval={interval}')
+            logger.info(f'{tiker} {cost.index[-i].date()} - {float("{0:.1f}".format(cost[-i]))}$ '
+                        f'{percentage_diff(cost[-i], cost[-i - 1])}% '
+                        f'Entry point for Up Trend for interval={interval}')
             # print("-" * 70, '\n' f'{tiker} {cost.index[-i].date()} {cost.index[-i].strftime("%H:%M:%S")} - '
             #                 f'{float("{0:.1f}".format(cost[-i]))}$ Entry point for Up Trend')
             # print("-" * 70)
@@ -126,7 +129,7 @@ def crossing_bigLine_ichimoko_cloud(data_ichimoko, tiker, points, interval):
     for point in a[0]:
         if crosing_point_bigline_cloud(cost, point) == True:
             logger.warning(f'{tiker} {cost.index[-1].date()} - '
-                        f'{float("{0:.1f}".format(cost[-1]))}$ length={count} - crossing line Ichimoko cloud for '
+                        f'{float("{0:.1f}".format(cost[-1]))}$ {percentage_diff(cost[-1], cost[-2])}% length={count} - crossing line Ichimoko cloud for '
                            f'interval={interval}')
             return {'name': tiker, 'date_time': [cost.index[-1].date(), cost.index[-1].strftime("%H:%M:%S")],
                     'text': f'{float("{0:.1f}".format(cost[-1]))}$ crossing line Ichimoko cloud'}
@@ -155,14 +158,16 @@ def file_tiker(filename, period, interval):
 
             a = input_trades(data_ichimoko, tenkan_sen_value, kijun_sen_value, senkou_spanA_value, senkou_spanB_value,
                              chikou_span_value, tiker, 5, interval)
+
+
             crossing_bigLine_ichimoko_cloud(data_ichimoko, tiker, max_counter(senkou_spanA_value), interval)
             crossing_bigLine_ichimoko_cloud(data_ichimoko, tiker, max_counter(senkou_spanB_value), interval)
             # logger.info(f"span A = {max_counter(senkou_spanA_value)}, span B = {max_counter(senkou_spanB_value)}")
             if a != None:
                 list_input_trades.append(a)
             # b = a
-            # current_trend(data_ichimoko, tenkan_sen_value, kijun_sen_value, senkou_spanA_value, senkou_spanB_value,
-            #               chikou_span_value, tiker)
+            current_trend(data_ichimoko, tenkan_sen_value, kijun_sen_value, senkou_spanA_value, senkou_spanB_value,
+                          chikou_span_value, tiker)
         except Exception:
             print(f"{tiker} - ERROR input data ichimoku  ")
 
@@ -195,25 +200,25 @@ if __name__ == '__main__':
             Valid intervals: 1m,2m,5m,15m,30m,60m,90m,1h,1d,5d,1wk,1mo,3mo
             Intraday data cannot extend last 60 days
     """
-    period = '2y'
-    interval = '1wk'
-    # print('Текущий портфель\n ')
-    # list = file_tiker('Portfolio.txt', period, interval)
-    #
-    # print('\n Список желаемых \n ')
-    # file_tiker('Список желаемых.txt', period, interval)
-    #
-    # print('\n Индексы, валюта \n ')
-    # list = file_tiker('Список индексов.txt', period, interval)
+    period = '6mo'
+    interval = '1d'
+    print('Текущий портфель\n ')
+    list_portfolio = file_tiker('Portfolio.txt', period, interval)
+
+    print('\n Список желаемых \n ')
+    file_tiker('Список желаемых.txt', period, interval)
+
+    print('\n Индексы, валюта \n ')
+    list_index = file_tiker('Список индексов.txt', period, interval)
 
     # print('\n Вся МОС БИРЖА \n ')
     # list = file_tiker('ALL_Moex.txt', period, interval)
 
-    print('\n Вся СПБ БИРЖА \n ')
-    list1 = file_tiker('ALL_spb.txt', period, interval)
-    print(f'\n{"_" * 70}')
-    for key in list1:
-        print(f"{key['name']} {key['date_time'][0].strftime('%Y-%m-%d')} {key['date_time'][1]} {key['text']}")
+    # print('\n Вся СПБ БИРЖА \n ')
+    # list1 = file_tiker('ALL_spb.txt', period, interval)
+    # print(f'\n{"_" * 70}')
+    # for key in list1:
+    #     print(f"{key['name']} {key['date_time'][0].strftime('%Y-%m-%d')} {key['date_time'][1]} {key['text']}")
 
     """
     'name': tiker, 'date_time': [cost.index[-i].date(), cost.index[-i].strftime("%H:%M:%S")],
