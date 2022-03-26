@@ -99,7 +99,7 @@ def senkou_spanA(tenkan_sen, kijun_sen, m):
     for i in range(len(tenkan_sen) - m):
         new_data[i] = a[i + m]
     new_data = new_data[:-m]
-    index = [tenkan_sen.index[0] + datetime.timedelta(days=indx+1) for indx in range(m)]
+    index = [indx for indx in tenkan_sen.index[1:m+1]]
     a = a[:m]
     s = pd.Series(a[::-1], index=index)
     a = new_data[::-1].append(s)
