@@ -27,19 +27,23 @@ def down_trend(tenkan_sen_value, kijun_sen_value, cost, senkou_spanA_value, senk
 def monitoring(templates, interval='1h'):
     period = '1mo'
     tikers = list(templates.keys())
-
+    errors_tiker = ['MAIL.IL', 'FXCN.ME']
     data = yf.download(tikers,  interval=interval, period=period)
     data_ichimoko = data.dropna(how='all')
     # data_ichimoko = data_ichimoko.index.tz_convert('Asia/Krasnoyarsk')
     for tiker, value in templates.items():
+        if tiker in errors_tiker:
+            break
         # value = 4
-
         tenkan_sen_value = tenkan_sen(data_ichimoko, 9, tiker)
         kijun_sen_value = tenkan_sen(data_ichimoko, 26, tiker)
         senkou_spanA_value = senkou_spanA(tenkan_sen_value, kijun_sen_value, 26)
-        senkou_spanB_value = senkou_spanB(tenkan_sen(data_ichimoko, 52, tiker), tenkan_sen_value, 26)
+        try:
+            senkou_spanB_value = senkou_spanB(tenkan_sen(data_ichimoko, 52, tiker), tenkan_sen_value, 26)
+        except ValueError:
+            print('Ошибка данных')
+            break
         chikou_span_value = chikou_span(data_ichimoko, 26, tiker)
-
         cost = data_ichimoko['Close'][tiker].dropna()
         cost_open = data_ichimoko['Open'][tiker].dropna()
         # cost = cost.index.tz_convert('Asia/Krasnoyarsk')
