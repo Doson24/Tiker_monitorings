@@ -119,14 +119,14 @@ min (Ln) - минимальное значение цены за последн�
 
 Линия Senkou Span B также сдвигается на m периодов времени вперед и формирует так называемую медленную границу облака Ишимоку. Автор индикатора предлагает использовать n=52 на дневном графике и сдвигать на количество периодов m=26.
 """
-
+@logger.catch
 def senkou_spanB(tenkan, data_for_index, m):
     new_data = tenkan.copy()
     # изменить индекс на 26 назад
     for i in range(len(tenkan) - m):
         new_data[i] = tenkan[i + m]
     new_data = new_data[:-m]
-    index = [data_for_index.index[0] + datetime.timedelta(days=indx+1) for indx in range(m)]
+    index = [data_for_index.index[0] + datetime.timedelta(days=indx) for indx in range(1, m+1)]
     tenkan = list(tenkan[:m])
     s = pd.Series(tenkan[::-1], index=index)
     a = new_data[::-1].append(s)
