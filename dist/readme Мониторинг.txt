@@ -11,3 +11,17 @@
 10 Strong UP Trend
 """
 точки входа работают всегда т.е без указания значения
+
+Ошибки загрузки:
+	- MAIL.IL
+	- FXCN.ME
+    - POGR.ME
+    - SLEN.ME
+    - XLRN
+    - UFS
+    - ECHO
+    - HRC
+    - KSU
+    - MGLN
+    - RAVN
+    - WLTW
